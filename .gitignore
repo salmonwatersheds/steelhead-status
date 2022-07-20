@@ -1,3 +1,9 @@
+#Specific files
+data/cu-data/as-recieved/
+data/raw-data/pdf-reports
+data/habitat-capacity-data/hc-lit
+
+
 # History files
 .Rhistory
 .Rapp.history
