@@ -31,7 +31,7 @@ This work is possible with funding from the [British Columbia Salmon Restoration
 
 ## More information
 
-General contact: info at salmonwatersheds dot ca
+General contact: info at salmonwatersheds dot ca.
 
 Contributers to this repository: 
 
