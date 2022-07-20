@@ -35,7 +35,7 @@ General contact: info at salmonwatersheds dot ca.
 
 Contributers to this repository: 
 
-Clare Atkinson, Project Manager (PSF) catkinson at psf dot ca
-Eric Hertz, Analyst (PSF) ehertz at psf dot ca
+* Clare Atkinson, Project Manager (PSF) catkinson at psf dot ca
+* Eric Hertz, Analyst (PSF) ehertz at psf dot ca
 
 Related papers and reports:
