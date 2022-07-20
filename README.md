@@ -39,3 +39,6 @@ Contributers to this repository:
 * Eric Hertz, Analyst (PSF) ehertz at psf dot ca
 
 Related papers and reports:
+
+* [Pacific Salmon Explorer Technical Report](https://salmonwatersheds.ca/library/lib_475/): more information about the approach and methods underlying the Pacific Salmon Explorer
+

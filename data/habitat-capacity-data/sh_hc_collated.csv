@@ -1,0 +1,126 @@
+region,steam_name,run_timing,min_spawners_seed_hc,spawners_r_max_beverton,spawners_r_max_ricker,spawners_smsy,source
+nass,Kincolith,winter,294,,,,bocking 2005
+nass,Iknouk,winter,174,,,,bocking 2005
+nass,Keazoah,winter,0,,,,bocking 2005
+nass,Anliyen (Greenville),winter,9,,,,bocking 2005
+nass,Diskangieq,winter,43,,,,bocking 2005
+nass,Anudol,winter,38,,,,bocking 2005
+nass,Inieth,winter,0,,,,bocking 2005
+nass,Cugiladap,winter,0,,,,bocking 2005
+nass,Wegiladap,winter,4,,,,bocking 2005
+nass,Wilyayaanooth,winter,0,,,,bocking 2005
+nass,Giswatz,winter,0,,,,bocking 2005
+nass,Gingietl,winter,0,,,,bocking 2005
+nass,Gish,winter,0,,,,bocking 2005
+nass,Chemainuk,winter,82,,,,bocking 2005
+nass,Burton,winter,2,,,,bocking 2005
+nass,Monkley,winter,35,,,,bocking 2005
+nass,Chambers,winter,33,,,,bocking 2005
+nass,Welda,winter,0,,,,bocking 2005
+nass,Quilgauw,winter,29,,,,bocking 2005
+nass,Ishkheenickhh,winter,407,,,,bocking 2005
+nass,Ginlulak,winter,20,,,,bocking 2005
+nass,Kwiniak (Ksedin),winter,247,,,,bocking 2005
+nass,Ksemamaith,winter,22,,,,bocking 2005
+nass,Ansedegan,winter,8,,,,bocking 2005
+nass,Kwinyarh,winter,0,,,,bocking 2005
+nass,Zolzap,winter,27,,,,bocking 2005
+nass,Total Winter Streams (All Systems),winter,1473,,,,bocking 2005
+nass,Total Winter Streams (Confirmed),winter,1204,,,,bocking 2005
+nass,Tseax,both,166,,,,bocking 2005
+nass,Seaskinnish,both,144,,,,bocking 2005
+nass,Gitwinksihlkw Ck,both,0,,,,bocking 2005
+nass,Total Sympatric Streams (Confirmed),both,310,,,,bocking 2005
+nass,Total Sympatric Streams (All Systems),both,310,,,,bocking 2005
+nass,Shumal,summer,102,,,,bocking 2005
+nass,Kwinamuck,summer,0,,,,bocking 2005
+nass,Kwinatahl,summer,86,,,,bocking 2005
+nass,Kshadin,summer,0,,,,bocking 2005
+nass,Tchitin,summer,247,,,,bocking 2005
+nass,Kinskuch,summer,14,,,,bocking 2005
+nass,Paw,summer,221,,,,bocking 2005
+nass,Brown Bear,summer,2,,,,bocking 2005
+nass,Van Dyke Ck,summer,2,,,,bocking 2005
+nass,White,summer,660,,,,bocking 2005
+nass,Meziadin,summer,111,,,,bocking 2005
+nass,Cranberry Main,summer,1408,,,,bocking 2005
+nass,Cranberry-Kiteen,summer,973,,,,bocking 2005
+nass,Bell-Irving (Below Bowser),summer,1302,,,,bocking 2005
+nass,Bell-Irving (Bowser to Teigen),summer,2524,,,,bocking 2005
+nass,Bell-Iriving (Above Teigen),summer,1386,,,,bocking 2005
+nass,Bowser,summer,738,,,,bocking 2005
+nass,Taft,summer,266,,,,bocking 2005
+nass,Treaty,summer,515,,,,bocking 2005
+nass,Teigen,summer,808,,,,bocking 2005
+nass,Hodder,summer,219,,,,bocking 2005
+nass,Kwinageese,summer,316,,,,bocking 2005
+nass,Saladamis,summer,66,,,,bocking 2005
+nass,Sanyam,summer,2,,,,bocking 2005
+nass,Sanskisoot,summer,72,,,,bocking 2005
+nass,Taylor,summer,748,,,,bocking 2005
+nass,Sallysout,summer,14,,,,bocking 2005
+nass,Vile,summer,146,,,,bocking 2005
+nass,Kotsinka,summer,89,,,,bocking 2005
+nass,Damdochax,summer,552,,,,bocking 2005
+nass,Muskaboo,summer,883,,,,bocking 2005
+nass,Panorama,summer,173,,,,bocking 2005
+nass,Konigus,summer,11,,,,bocking 2005
+nass,Upper Nass,summer,1005,,,,bocking 2005
+nass,Total Summer Streams (Confirmed),summer,15662,,,,bocking 2005
+nass,Total Summer Streams (All Systems),summer,12386,,,,bocking 2005
+fraser,Deadman,summer,,348,344,125,decker 2015
+fraser,Bonaparte,summer,,340,320,110,decker 2015
+fraser,Nicola,summer,,"1,074","1,013",403,decker 2015
+fraser,Thompson aggregate,summer,,"1,574","1,481",621,decker 2015
+vimi,squamish drainage,winter,1528,,,,dishoeck 1999
+vimi,squamish ,winter,1013,,,,dishoeck 1999
+vimi,mamquam,winter,49,,,,dishoeck 1999
+vimi,mashiter,winter,5,,,,dishoeck 1999
+vimi,cheakamus,winter,191,,,,dishoeck 1999
+skeena,Lower Skeena Mainstem,,,,,2565,lessard 2005
+skeena,Middle Skeena Mainstem,,,,,3473,lessard 2005
+skeena,Upper Skeena Mainstem,,,,,2107,lessard 2005
+skeena,Zymoetz,,,,,2046,lessard 2005
+skeena,Lower Tribs,,,,,666,lessard 2005
+skeena,Kitwanga,,,,,616,lessard 2005
+skeena,Kitseguecia,,,,,322,lessard 2005
+skeena,Bulkley,,,,,4138,lessard 2005
+skeena,Suskwa,,,,,432,lessard 2005
+skeena,Morice,,,,,2842,lessard 2005
+skeena,Kispiox,,,,,1518,lessard 2005
+skeena,Babine,,,,,1261,lessard 2005
+skeena,Upper Tribs,,,,,488,lessard 2005
+skeena,Sustut,,,,,496,lessard 2005
+skeena,Upper Sustut,,,,,357,lessard 2005
+skeena,Kiuantantan,,,,,635,lessard 2005
+skeena,Skeena Total,,,,,23964,lessard 2005
+fraser,Fraser Canyon Mainstem,,1707,,,,riley 1998
+fraser,Spuzzum Creek,,109,,,,riley 1998
+fraser,Scuzzy Creek,,74,,,,riley 1998
+fraser,Nahatlatch,,348,,,,riley 1998
+fraser,Mowhokam Creek,,113,,,,riley 1998
+fraser,Thompson Mainstem,,358,,,,riley 1998
+fraser,Nicola,,523,,,,riley 1998
+fraser,Skuhun Creek,,158,,,,riley 1998
+fraser,Spius Creek,,133,,,,riley 1998
+fraser,Maka Creek,,103,,,,riley 1998
+fraser,Coldwater,,522,,,,riley 1998
+fraser,Juliet Creek,,4,,,,riley 1998
+fraser,Clapperton Creek,,26,,,,riley 1998
+fraser,Guichon Creek,,168,,,,riley 1998
+fraser,Bonaparte,,616,,,,riley 1998
+fraser,Loon Creek,,31,,,,riley 1998
+fraser,Deadman,,451,,,,riley 1998
+fraser,Criss Creek,,154,,,,riley 1998
+fraser,Middle Fraser Mainstem,,658,,,,riley 1998
+fraser,Riske Creek,,55,,,,riley 1998
+fraser,Stein,,1565,,,,riley 1998
+fraser,Seton,,79,,,,riley 1998
+fraser,Cayoosh,,77,,,,riley 1998
+fraser,Bridge,,1278,,,,riley 1998
+fraser,Yalakom,,2045,,,,riley 1998
+fraser,Chilcotin,,1104,,,,riley 1998
+fraser,Chilko,,1123,,,,riley 1998
+fraser,Taseko,,942,,,,riley 1998
+fraser,Elkin Creek,,579,,,,riley 1998
+fraser,Fraser Total,,13696,,,,riley 1998
