@@ -1,0 +1,3 @@
+to	Indicator	sppqualifiedid	geofeatureid	streamname	cuid
+9702	Y	CK	NA	OKANAGAN RIVER	301
+9703	Y	SEL	NA	OKANAGAN RIVER	1300
