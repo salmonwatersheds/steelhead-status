@@ -1,0 +1,31 @@
+processing notes to delineate steelhead ZOIs:
+
+1) merge se_surveystreams_steelhead (made from the population csv coordinates) with FISS steelhead spawning locations and monitoring locations marked as "spawner surveys" and spawning locations added through the Habitat Mapper. These inputs were combined into an output file named "spawning_points_steelhead_20220802.shp" with a datasource column to indicate the source file.
+
+2) spatial joined "spawning_points_steelhead_20220802.shp" to the FWA assessment watersheds to get the wtrshd_fid of watersheds closest to each spawning point. If the spawning point falls inside of the watershed then the PtDist (point distance to watershed) value is 0. If the spawning point is not inside any assessment watershed (common for coastal areas) then the point is matched to the closest watershed and given a PtDist value of how far away the spawning point is to the closest edge of a watershed.
+
+3) assessment watersheds that are matched to spawning points are selected out and matched to the CU which contains the watershed. To match the watersheds to CUs, I converted the watersheds to centroids (generally the center point of a watershed). The centroids are then spatial joined to CUs (in the same way that the spawning points were spatially joined to watersheds). If the centroid is not inside any CU then the centroid is matched to the closest CU and given a WSDDist value of how far away the centroid is to the closest edge of a CU.
+
+4) spawning lines from FISS and spawning lines added through the Habitat Mapper were merged into the output file named "spawning_lines_steelhead_20220802.shp" with a datasource column to indicate the source file.
+
+5) spawning lines were spatial joined to assessment watersheds so that each line is assigned the wtrshd_fid of the watershed that it is closest to. All spawning lines fell within watersheds.
+
+6) Selected out the watersheds that were not already identified as a spawning watershed based on the spawning points (step 2).
+
+7) Repeated step 3 with the watersheds from step 6.
+
+8) the spawning watersheds from step 3 and from step 7 were combined into the "Steelhead Spawning Watersheds" dataset on the Habitat Mapper. These are the individual watersheds which will be dissolved to become the "ZOI" for each CU after QAQC.
+
+
+
+----
+Parts of the process where QAQC should focus:
+----
+anywhere where PtDist > 0 (Point Distance to Watershed) means that the spawning point location was not inside an assessment watershed but was matched to the closest watershed.
+
+anywhere where WSDDist > 0 (Watershed Distance to CU) are cases where spawning locations occur outside of CU boundaries. The spawning location was still matched to an assessment watershed and the assessment watershed's centroid was matched to the closest CU.
+
+These "closest" matches are done automatically so should be visually examined and corrected if the closest watershed or CU is not actually the right match. Compare the spawning point or line stream name with the GNIS_NAME (system name) of the watersheds to confirm/correct the matches.
+---
+
+the stream survey points (created from the coordinates in the population csv) should also be checked. The "Coordinate Certainty" column indicates how confident Rheanna was when sourcing the coordinates. Note that the column (column R) was originally named "coord_uncertainty" but based on Rheanna's description of high, medium and low ratings I believe "low" indicates low confidence in the coordinates being "right" so I renamed the column coord_certainty.
