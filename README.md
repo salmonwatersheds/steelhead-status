@@ -11,6 +11,8 @@ To leverage this successful tool to improve the availability of information abou
 
 ## Files
 
+Data have NOT been reviewed by PSF's Steelhead Technical Working Group. 
+
 TO BE EDITED...
 What are the files and folders contained in this repo and what do they do? Can be a file-by-file explanation (good) or a general overview (less good but likley the norm; e.g., This repo contains R code to reproduce the regional summaries shown in the Pacific Salmon Explorer landing page.)
 
