@@ -1,4 +1,4 @@
-cu_id,cu_name,stream_id,stream_name,major_drainage,watershed_code,parkinson_cu,tautz_cu,phylogenetic_group,run_timing_full.x,run_timing,OBJECTID,parkinson2005cu,run_timing_full.y,COL_H,latitude,longitude,coord_certainty,Comments/Alternate,coord_source
+cu_id,cu_name,stream_id,stream_name,major_drainage,watershed_code,parkinson_cu,tautz_cu,phylogenetic_group,run_timing_full.x,run_timing,OBJECTID,parkinson2005cu,run_timing_full.y,COL_H,latitude,longitude,coord_certainty,comments_alternate,coord_source
 982,East Vancouver Island Winter,10003,KIRBY CREEK,West Vancouver Island,930031100,W. Vancouver Is. Winter,NA,South Coast,Winter,NA,283,W. Vancouver Is. Winter,Winter,NA,48.382342,-123.896706,H,KB,NuSEDs
 982,East Vancouver Island Winter,10001,TUGWELL CREEK,West Vancouver Island,930029800,W. Vancouver Is. Winter,NA,South Coast,Winter,NA,281,W. Vancouver Is. Winter,Winter,NA,48.37537,-123.851123,H,KB,NuSEDs
 982,East Vancouver Island Winter,10002,MUIR CREEK,West Vancouver Island,930030300,W. Vancouver Is. Winter,NA,South Coast,Winter,NA,282,W. Vancouver Is. Winter,Winter,NA,48.38586692,-123.8636185,H,NA,FWA Streams_Line_BC
