@@ -1,0 +1,348 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{apalike}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Steelhead Conservation Unit Snapshots},
+  pdfauthor={Clare Atkinson \& Eric Hertz},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Steelhead Conservation Unit Snapshots}
+\author{Clare Atkinson \& Eric Hertz}
+\date{2022-09-20}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{about}{%
+\chapter{About}\label{about}}
+
+This is an \emph{in-progress} working document to summarize the available information compiled for steelhead populations in BC as part of a project led by the \textbf{Pacific Salmon Foundation's (PSF) \href{https://salmonwatersheds.ca/}{Salmon Watersheds Program}}. This work aims to ensure these data are broadly accessible and are synthesized to provide information on the status of steelhead and their habitats at the level of Conservation Units (CUs). The outputs of \textbf{\href{https://salmonwatersheds.ca/projects/steelhead-a-snapshot-of-bc-populations-and-their-habitats/}{PSF's steelhead project}} will be visualized in the \textbf{\href{https://www.salmonexplorer.ca/\#!/}{Pacific Salmon Explorer}} and the data we compile and synthesize is easily accessible for download in our \textbf{\href{https://data.salmonwatersheds.ca/data-library/}{Data Library}}. For more information about the approach and methods underlying the Pacific Salmon Explorer and guiding this work, please see the \textbf{\href{https://salmonwatersheds.ca/library/lib_475/}{Pacific Salmon Explorer Technical Report}}.
+
+\emph{Link to Github repository with raw data sources, data processing steps, and analysis code to be added.}
+
+\hypertarget{province}{%
+\chapter{Provincial Overview}\label{province}}
+
+You can label chapter and section titles using \texttt{\{\#label\}} after them, e.g., we can reference Chapter \ref{province}. If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \ref{methods}.
+
+You can write citations, too. For example, we are using the \textbf{bookdown} package \citep{R-bookdown} in this sample book, which was built on top of R Markdown and \textbf{knitr} \citep{xie2015}.
+
+\hypertarget{tbr}{%
+\chapter{Transboundary}\label{tbr}}
+
+Here is the information available for steelhead CUs in the Transboundary region.
+
+\emph{insert regional map}
+
+\hypertarget{stikine-winter}{%
+\section{Stikine Winter}\label{stikine-winter}}
+
+TBA
+
+\hypertarget{stikine-summer}{%
+\section{Stikine Summer}\label{stikine-summer}}
+
+TBA
+
+\hypertarget{taku-winter}{%
+\section{Taku Winter}\label{taku-winter}}
+
+TBA
+
+\hypertarget{taku-summer}{%
+\section{Taku Summer}\label{taku-summer}}
+
+TBA
+
+\hypertarget{alsek-summer}{%
+\section{Alsek Summer}\label{alsek-summer}}
+
+TBA
+
+\hypertarget{nass}{%
+\chapter{Nass}\label{nass}}
+
+Here is the information available for steelhead CUs in the Nass region.
+
+\emph{insert regional map}
+
+\hypertarget{nass-summer}{%
+\section{Nass Summer}\label{nass-summer}}
+
+TBA
+
+\hypertarget{nass-winter}{%
+\section{Nass Winter}\label{nass-winter}}
+
+TBA
+
+\hypertarget{skeena}{%
+\chapter{Skeena}\label{skeena}}
+
+Here is the information available for steelhead CUs in the Skeena region.
+
+\emph{insert regional map}
+
+\hypertarget{upper-skeena-headwaters}{%
+\section{Upper Skeena Headwaters}\label{upper-skeena-headwaters}}
+
+TBA
+
+\hypertarget{upper-sustut}{%
+\section{Upper Sustut}\label{upper-sustut}}
+
+TBA
+
+\hypertarget{upper-skeena}{%
+\section{Upper Skeena}\label{upper-skeena}}
+
+TBA
+
+\hypertarget{kispiox}{%
+\section{Kispiox}\label{kispiox}}
+
+TBA
+
+\hypertarget{babine}{%
+\section{Babine}\label{babine}}
+
+TBA
+
+\hypertarget{middle-skeena}{%
+\section{Middle Skeena}\label{middle-skeena}}
+
+TBA
+
+\hypertarget{suskwa}{%
+\section{Suskwa}\label{suskwa}}
+
+TBA
+
+\hypertarget{buckley}{%
+\section{Buckley}\label{buckley}}
+
+TBA
+
+\hypertarget{morice}{%
+\section{Morice}\label{morice}}
+
+TBA
+
+\hypertarget{skeena-coastal-summers}{%
+\section{Skeena Coastal Summers}\label{skeena-coastal-summers}}
+
+TBA
+
+\hypertarget{skeena-coastal-winters}{%
+\section{Skeena Coastal Winters}\label{skeena-coastal-winters}}
+
+TBA
+
+\hypertarget{hg}{%
+\chapter{Haida Gwaii}\label{hg}}
+
+Here is the information available for steelhead CUs in the Haida Gwaii region.
+
+\emph{insert regional map}
+
+\hypertarget{haida-gwaii-winter}{%
+\section{Haida Gwaii Winter}\label{haida-gwaii-winter}}
+
+TBA
+
+\hypertarget{cc}{%
+\chapter{Central Coast}\label{cc}}
+
+Here is the information available for steelhead CUs in the Central Coast region.
+
+\emph{insert regional map}
+
+\hypertarget{north-coast-summer}{%
+\section{North Coast Summer}\label{north-coast-summer}}
+
+TBA
+
+\hypertarget{north-coast-winter}{%
+\section{North Coast Winter}\label{north-coast-winter}}
+
+TBA
+
+\hypertarget{central-coast-winter}{%
+\section{Central Coast Winter}\label{central-coast-winter}}
+
+TBA
+
+\hypertarget{transition-summer}{%
+\section{Transition Summer}\label{transition-summer}}
+
+TBA
+
+\hypertarget{fraser}{%
+\chapter{Fraser}\label{fraser}}
+
+Here is the information available for steelhead CUs in the Fraser region.
+
+\emph{insert regional map}
+
+\hypertarget{mid-fraser-summer}{%
+\section{Mid Fraser Summer}\label{mid-fraser-summer}}
+
+TBA
+
+\hypertarget{thompson-summer}{%
+\section{Thompson Summer}\label{thompson-summer}}
+
+TBA
+
+\hypertarget{fraser-canyon-summer}{%
+\section{Fraser Canyon Summer}\label{fraser-canyon-summer}}
+
+TBA
+
+\hypertarget{lower-fraser-summer}{%
+\section{Lower Fraser Summer}\label{lower-fraser-summer}}
+
+TBA
+
+\hypertarget{lower-fraser-winter}{%
+\section{Lower Fraser Winter}\label{lower-fraser-winter}}
+
+TBA
+
+\hypertarget{boundary-bay-winter}{%
+\section{Boundary Bay Winter}\label{boundary-bay-winter}}
+
+TBA
+
+\hypertarget{col}{%
+\chapter{Columbia}\label{col}}
+
+Here is the information available for steelhead CUs in the Columbia region.
+
+\emph{insert regional map}
+
+\hypertarget{mid-columbia-summer}{%
+\section{Mid Columbia Summer}\label{mid-columbia-summer}}
+
+TBA
+
+\hypertarget{vimi}{%
+\chapter{Vancouver Island \& Mainland Inlets}\label{vimi}}
+
+Here is the information available for steelhead CUs in the Vancouver Island \& Mainland Inlets (VIMI) region.
+
+\emph{insert regional map}
+
+\hypertarget{south-coast-summer}{%
+\section{South Coast Summer}\label{south-coast-summer}}
+
+TBA
+
+\hypertarget{south-coast-winter}{%
+\section{South Coast Winter}\label{south-coast-winter}}
+
+TBA
+
+\hypertarget{east-vancouver-island-summer}{%
+\section{East Vancouver Island Summer}\label{east-vancouver-island-summer}}
+
+TBA
+
+\hypertarget{east-vancouver-island-winter}{%
+\section{East Vancouver Island Winter}\label{east-vancouver-island-winter}}
+
+TBA
+
+\hypertarget{west-vancouver-island-summer}{%
+\section{West Vancouver Island Summer}\label{west-vancouver-island-summer}}
+
+TBA
+
+\hypertarget{west-vancouver-island-winter}{%
+\section{West Vancouver Island Winter}\label{west-vancouver-island-winter}}
+
+TBA
+
+  \bibliography{book.bib,packages.bib}
+
+\end{document}

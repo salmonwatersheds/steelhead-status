@@ -53,8 +53,11 @@ where stream_name SALMON RIVER from cuid 782. kept 9868:
 
 where stream_name SALMON RIVER from cuid 981. kept 9992:
 9991
+
 ----------------------------------------------------------
 other notes:
 
 Katy sourced/corrected coordinates for streams marked with comment "KB".
+
+Clare corrected coordinates for streams marked with "CA"
 

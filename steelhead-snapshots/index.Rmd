@@ -1,0 +1,20 @@
+--- 
+title: "Steelhead Conservation Unit Snapshots"
+author: "Clare Atkinson & Eric Hertz"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is a work-in-progress reference document developed by the Pacific Salmon Foundation's Salmon Watersheds Program to summarize key population information compiled and sythesized so far for steelhead in British Columbia at a Conservation Unit (CU) level."
+---
+
+# About
+
+This is an _in-progress_ working document to summarize the available information compiled for steelhead populations in BC as part of a project led by the **Pacific Salmon Foundation's (PSF) [Salmon Watersheds Program](https://salmonwatersheds.ca/)**. This work aims to ensure these data are broadly accessible and are synthesized to provide information on the status of steelhead and their habitats at the level of Conservation Units (CUs). The outputs of **[PSF’s steelhead project](https://salmonwatersheds.ca/projects/steelhead-a-snapshot-of-bc-populations-and-their-habitats/)** will be visualized in the **[Pacific Salmon Explorer](https://www.salmonexplorer.ca/#!/)** and the data we compile and synthesize is easily accessible for download in our **[Data Library](https://data.salmonwatersheds.ca/data-library/)**. For more information about the approach and methods underlying the Pacific Salmon Explorer and guiding this work, please see the **[Pacific Salmon Explorer Technical Report](https://salmonwatersheds.ca/library/lib_475/)**.
+
+_Link to Github repository with raw data sources, data processing steps, and analysis code to be added._
+

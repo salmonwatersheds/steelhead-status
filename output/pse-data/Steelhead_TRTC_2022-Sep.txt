@@ -1,0 +1,361 @@
+SpeciesId	StatArea.CU	CU_Name	Year	T_Idx_E	ExpFactor1	AdjSum	ExpFactor2	ObsE	ExpFactor3	TE	CDN.Harvest	CDN.ER	TRTC	Total.Harvest	Total.ER	Total.Run	Q1	Q2	Q3
+SH	1380	Mid Columbia Summer	1950																
+SH	1380	Mid Columbia Summer	1951																
+SH	1380	Mid Columbia Summer	1952																
+SH	1380	Mid Columbia Summer	1953																
+SH	1380	Mid Columbia Summer	1954																
+SH	1380	Mid Columbia Summer	1955																
+SH	1380	Mid Columbia Summer	1956																
+SH	1380	Mid Columbia Summer	1957																
+SH	1380	Mid Columbia Summer	1958																
+SH	1380	Mid Columbia Summer	1959																
+SH	1380	Mid Columbia Summer	1960																
+SH	1380	Mid Columbia Summer	1961																
+SH	1380	Mid Columbia Summer	1962																
+SH	1380	Mid Columbia Summer	1963																
+SH	1380	Mid Columbia Summer	1964																
+SH	1380	Mid Columbia Summer	1965																
+SH	1380	Mid Columbia Summer	1966																
+SH	1380	Mid Columbia Summer	1967																
+SH	1380	Mid Columbia Summer	1968																
+SH	1380	Mid Columbia Summer	1969																
+SH	1380	Mid Columbia Summer	1970																
+SH	1380	Mid Columbia Summer	1971																
+SH	1380	Mid Columbia Summer	1972																
+SH	1380	Mid Columbia Summer	1973																
+SH	1380	Mid Columbia Summer	1974																
+SH	1380	Mid Columbia Summer	1975																
+SH	1380	Mid Columbia Summer	1976																
+SH	1380	Mid Columbia Summer	1977																
+SH	1380	Mid Columbia Summer	1978																
+SH	1380	Mid Columbia Summer	1979																
+SH	1380	Mid Columbia Summer	1980																
+SH	1380	Mid Columbia Summer	1981																
+SH	1380	Mid Columbia Summer	1982																
+SH	1380	Mid Columbia Summer	1983																
+SH	1380	Mid Columbia Summer	1984																
+SH	1380	Mid Columbia Summer	1985																
+SH	1380	Mid Columbia Summer	1986																
+SH	1380	Mid Columbia Summer	1987																
+SH	1380	Mid Columbia Summer	1988																
+SH	1380	Mid Columbia Summer	1989																
+SH	1380	Mid Columbia Summer	1990																
+SH	1380	Mid Columbia Summer	1991																
+SH	1380	Mid Columbia Summer	1992																
+SH	1380	Mid Columbia Summer	1993																
+SH	1380	Mid Columbia Summer	1994																
+SH	1380	Mid Columbia Summer	1995																
+SH	1380	Mid Columbia Summer	1996																
+SH	1380	Mid Columbia Summer	1997																
+SH	1380	Mid Columbia Summer	1998																
+SH	1380	Mid Columbia Summer	1999																
+SH	1380	Mid Columbia Summer	2000																
+SH	1380	Mid Columbia Summer	2001																
+SH	1380	Mid Columbia Summer	2002																
+SH	1380	Mid Columbia Summer	2003																
+SH	1380	Mid Columbia Summer	2004																
+SH	1380	Mid Columbia Summer	2005																
+SH	1380	Mid Columbia Summer	2006							99									
+SH	1380	Mid Columbia Summer	2007							92									
+SH	1380	Mid Columbia Summer	2008							78									
+SH	1380	Mid Columbia Summer	2009							384									
+SH	1380	Mid Columbia Summer	2010							265									
+SH	1380	Mid Columbia Summer	2011							136									
+SH	1380	Mid Columbia Summer	2012							115									
+SH	1380	Mid Columbia Summer	2013							2									
+SH	1380	Mid Columbia Summer	2014							16									
+SH	1380	Mid Columbia Summer	2015							26									
+SH	1380	Mid Columbia Summer	2016							15									
+SH	1380	Mid Columbia Summer	2017							10									
+SH	1380	Mid Columbia Summer	2018							0									
+SH	1380	Mid Columbia Summer	2019							23									
+SH	1380	Mid Columbia Summer	2020							5									
+SH	1380	Mid Columbia Summer	2021							9									
+SH	281	Upper Sustut	1950																
+SH	281	Upper Sustut	1951																
+SH	281	Upper Sustut	1952																
+SH	281	Upper Sustut	1953																
+SH	281	Upper Sustut	1954																
+SH	281	Upper Sustut	1955																
+SH	281	Upper Sustut	1956																
+SH	281	Upper Sustut	1957																
+SH	281	Upper Sustut	1958																
+SH	281	Upper Sustut	1959																
+SH	281	Upper Sustut	1960																
+SH	281	Upper Sustut	1961																
+SH	281	Upper Sustut	1962																
+SH	281	Upper Sustut	1963																
+SH	281	Upper Sustut	1964																
+SH	281	Upper Sustut	1965																
+SH	281	Upper Sustut	1966																
+SH	281	Upper Sustut	1967																
+SH	281	Upper Sustut	1968																
+SH	281	Upper Sustut	1969																
+SH	281	Upper Sustut	1970																
+SH	281	Upper Sustut	1971																
+SH	281	Upper Sustut	1972																
+SH	281	Upper Sustut	1973																
+SH	281	Upper Sustut	1974																
+SH	281	Upper Sustut	1975																
+SH	281	Upper Sustut	1976																
+SH	281	Upper Sustut	1977																
+SH	281	Upper Sustut	1978																
+SH	281	Upper Sustut	1979																
+SH	281	Upper Sustut	1980																
+SH	281	Upper Sustut	1981																
+SH	281	Upper Sustut	1982																
+SH	281	Upper Sustut	1983																
+SH	281	Upper Sustut	1984																
+SH	281	Upper Sustut	1985																
+SH	281	Upper Sustut	1986																
+SH	281	Upper Sustut	1987																
+SH	281	Upper Sustut	1988																
+SH	281	Upper Sustut	1989																
+SH	281	Upper Sustut	1990																
+SH	281	Upper Sustut	1991																
+SH	281	Upper Sustut	1992																
+SH	281	Upper Sustut	1993																
+SH	281	Upper Sustut	1994							584									
+SH	281	Upper Sustut	1995							467									
+SH	281	Upper Sustut	1996							466									
+SH	281	Upper Sustut	1997							649									
+SH	281	Upper Sustut	1998							1064									
+SH	281	Upper Sustut	1999							731									
+SH	281	Upper Sustut	2000							377									
+SH	281	Upper Sustut	2001							756									
+SH	281	Upper Sustut	2002							812									
+SH	281	Upper Sustut	2003							1115									
+SH	281	Upper Sustut	2004							1042									
+SH	281	Upper Sustut	2005							268									
+SH	281	Upper Sustut	2006							133									
+SH	281	Upper Sustut	2007							263									
+SH	281	Upper Sustut	2008							193									
+SH	281	Upper Sustut	2009							1162									
+SH	281	Upper Sustut	2010							1050									
+SH	281	Upper Sustut	2011							1186									
+SH	281	Upper Sustut	2012							1073									
+SH	281	Upper Sustut	2013							988									
+SH	281	Upper Sustut	2014							895									
+SH	281	Upper Sustut	2015							943									
+SH	281	Upper Sustut	2016							1532									
+SH	281	Upper Sustut	2017							1005									
+SH	281	Upper Sustut	2018							299									
+SH	281	Upper Sustut	2019																
+SH	281	Upper Sustut	2020																
+SH	281	Upper Sustut	2021																
+SH	287	Buckley	1950																
+SH	287	Buckley	1951																
+SH	287	Buckley	1952																
+SH	287	Buckley	1953																
+SH	287	Buckley	1954																
+SH	287	Buckley	1955																
+SH	287	Buckley	1956																
+SH	287	Buckley	1957																
+SH	287	Buckley	1958																
+SH	287	Buckley	1959																
+SH	287	Buckley	1960																
+SH	287	Buckley	1961																
+SH	287	Buckley	1962																
+SH	287	Buckley	1963																
+SH	287	Buckley	1964																
+SH	287	Buckley	1965																
+SH	287	Buckley	1966																
+SH	287	Buckley	1967																
+SH	287	Buckley	1968																
+SH	287	Buckley	1969																
+SH	287	Buckley	1970																
+SH	287	Buckley	1971																
+SH	287	Buckley	1972																
+SH	287	Buckley	1973																
+SH	287	Buckley	1974																
+SH	287	Buckley	1975																
+SH	287	Buckley	1976																
+SH	287	Buckley	1977																
+SH	287	Buckley	1978																
+SH	287	Buckley	1979																
+SH	287	Buckley	1980																
+SH	287	Buckley	1981																
+SH	287	Buckley	1982																
+SH	287	Buckley	1983																
+SH	287	Buckley	1984																
+SH	287	Buckley	1985																
+SH	287	Buckley	1986																
+SH	287	Buckley	1987																
+SH	287	Buckley	1988																
+SH	287	Buckley	1989																
+SH	287	Buckley	1990																
+SH	287	Buckley	1991																
+SH	287	Buckley	1992																
+SH	287	Buckley	1993																
+SH	287	Buckley	1994																
+SH	287	Buckley	1995																
+SH	287	Buckley	1996																
+SH	287	Buckley	1997																
+SH	287	Buckley	1998																
+SH	287	Buckley	1999							28527									
+SH	287	Buckley	2000							41428									
+SH	287	Buckley	2001							15948									
+SH	287	Buckley	2002							25398									
+SH	287	Buckley	2003							12150									
+SH	287	Buckley	2004							15670									
+SH	287	Buckley	2005							15341									
+SH	287	Buckley	2006							15138									
+SH	287	Buckley	2007							19073									
+SH	287	Buckley	2008							27484									
+SH	287	Buckley	2009							24973									
+SH	287	Buckley	2010							41140									
+SH	287	Buckley	2011							19149									
+SH	287	Buckley	2012							27465									
+SH	287	Buckley	2013																
+SH	287	Buckley	2014																
+SH	287	Buckley	2015																
+SH	287	Buckley	2016																
+SH	287	Buckley	2017																
+SH	287	Buckley	2018																
+SH	287	Buckley	2019																
+SH	287	Buckley	2020																
+SH	287	Buckley	2021																
+SH	289	Morice	1950																
+SH	289	Morice	1951																
+SH	289	Morice	1952																
+SH	289	Morice	1953																
+SH	289	Morice	1954																
+SH	289	Morice	1955																
+SH	289	Morice	1956																
+SH	289	Morice	1957																
+SH	289	Morice	1958																
+SH	289	Morice	1959																
+SH	289	Morice	1960																
+SH	289	Morice	1961																
+SH	289	Morice	1962																
+SH	289	Morice	1963																
+SH	289	Morice	1964																
+SH	289	Morice	1965																
+SH	289	Morice	1966																
+SH	289	Morice	1967																
+SH	289	Morice	1968																
+SH	289	Morice	1969																
+SH	289	Morice	1970																
+SH	289	Morice	1971																
+SH	289	Morice	1972																
+SH	289	Morice	1973																
+SH	289	Morice	1974																
+SH	289	Morice	1975																
+SH	289	Morice	1976																
+SH	289	Morice	1977																
+SH	289	Morice	1978																
+SH	289	Morice	1979																
+SH	289	Morice	1980																
+SH	289	Morice	1981																
+SH	289	Morice	1982																
+SH	289	Morice	1983																
+SH	289	Morice	1984																
+SH	289	Morice	1985																
+SH	289	Morice	1986																
+SH	289	Morice	1987																
+SH	289	Morice	1988																
+SH	289	Morice	1989																
+SH	289	Morice	1990																
+SH	289	Morice	1991																
+SH	289	Morice	1992																
+SH	289	Morice	1993																
+SH	289	Morice	1994																
+SH	289	Morice	1995																
+SH	289	Morice	1996																
+SH	289	Morice	1997																
+SH	289	Morice	1998																
+SH	289	Morice	1999							28527									
+SH	289	Morice	2000							41428									
+SH	289	Morice	2001							15948									
+SH	289	Morice	2002							25398									
+SH	289	Morice	2003							12150									
+SH	289	Morice	2004							15670									
+SH	289	Morice	2005							15341									
+SH	289	Morice	2006							15138									
+SH	289	Morice	2007							19073									
+SH	289	Morice	2008							27484									
+SH	289	Morice	2009							24973									
+SH	289	Morice	2010							41140									
+SH	289	Morice	2011							19149									
+SH	289	Morice	2012							27465									
+SH	289	Morice	2013																
+SH	289	Morice	2014																
+SH	289	Morice	2015																
+SH	289	Morice	2016																
+SH	289	Morice	2017																
+SH	289	Morice	2018																
+SH	289	Morice	2019																
+SH	289	Morice	2020																
+SH	289	Morice	2021																
+SH	781	Thompson Summer	1950																
+SH	781	Thompson Summer	1951																
+SH	781	Thompson Summer	1952																
+SH	781	Thompson Summer	1953																
+SH	781	Thompson Summer	1954																
+SH	781	Thompson Summer	1955																
+SH	781	Thompson Summer	1956																
+SH	781	Thompson Summer	1957																
+SH	781	Thompson Summer	1958																
+SH	781	Thompson Summer	1959																
+SH	781	Thompson Summer	1960																
+SH	781	Thompson Summer	1961																
+SH	781	Thompson Summer	1962																
+SH	781	Thompson Summer	1963																
+SH	781	Thompson Summer	1964																
+SH	781	Thompson Summer	1965																
+SH	781	Thompson Summer	1966																
+SH	781	Thompson Summer	1967																
+SH	781	Thompson Summer	1968																
+SH	781	Thompson Summer	1969																
+SH	781	Thompson Summer	1970																
+SH	781	Thompson Summer	1971																
+SH	781	Thompson Summer	1972																
+SH	781	Thompson Summer	1973																
+SH	781	Thompson Summer	1974																
+SH	781	Thompson Summer	1975																
+SH	781	Thompson Summer	1976																
+SH	781	Thompson Summer	1977																
+SH	781	Thompson Summer	1978							1666									
+SH	781	Thompson Summer	1979							1666									
+SH	781	Thompson Summer	1980							952									
+SH	781	Thompson Summer	1981							1247									
+SH	781	Thompson Summer	1982							1190									
+SH	781	Thompson Summer	1983							2857									
+SH	781	Thompson Summer	1984							1120									
+SH	781	Thompson Summer	1985							3510									
+SH	781	Thompson Summer	1986							2330									
+SH	781	Thompson Summer	1987							1680									
+SH	781	Thompson Summer	1988							1500									
+SH	781	Thompson Summer	1989							1670									
+SH	781	Thompson Summer	1990							1200									
+SH	781	Thompson Summer	1991							1200									
+SH	781	Thompson Summer	1992							900									
+SH	781	Thompson Summer	1993							2960									
+SH	781	Thompson Summer	1994							2660									
+SH	781	Thompson Summer	1995							2590									
+SH	781	Thompson Summer	1996							1020									
+SH	781	Thompson Summer	1997							3000									
+SH	781	Thompson Summer	1998							1470									
+SH	781	Thompson Summer	1999							2520									
+SH	781	Thompson Summer	2000							1500									
+SH	781	Thompson Summer	2001							1810									
+SH	781	Thompson Summer	2002							3160									
+SH	781	Thompson Summer	2003							1480									
+SH	781	Thompson Summer	2004							950									
+SH	781	Thompson Summer	2005							2440									
+SH	781	Thompson Summer	2006							1660									
+SH	781	Thompson Summer	2007							740									
+SH	781	Thompson Summer	2008							1160									
+SH	781	Thompson Summer	2009							690									
+SH	781	Thompson Summer	2010							590									
+SH	781	Thompson Summer	2011							520									
+SH	781	Thompson Summer	2012							1000									
+SH	781	Thompson Summer	2013							1090									
+SH	781	Thompson Summer	2014							1300									
+SH	781	Thompson Summer	2015							850									
+SH	781	Thompson Summer	2016							360									
+SH	781	Thompson Summer	2017							240									
+SH	781	Thompson Summer	2018							150									
+SH	781	Thompson Summer	2019							240									
+SH	781	Thompson Summer	2020							257									
+SH	781	Thompson Summer	2021							203									

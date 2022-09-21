@@ -1,0 +1,37 @@
+cuid,use,cuname,gen_length,sr_code,trtc_cu,nuseds_cu,cuindex,culabel,CU,spp,species,watershed,X
+280,FALSE,Upper Skeena Headwaters,5,NA,280,280,280,Upper Skeena Headwaters,Upper Skeena Headwaters,SH,SH,NA,NA
+281,ABUND,Upper Sustut,5,NA,281,281,281,Upper Sustut,Upper Sustut,SH,SH,NA,NA
+282,FALSE,Upper Skeena,5,NA,282,282,282,Upper Skeena,Upper Skeena,SH,SH,NA,NA
+283,FALSE,Kispiox,5,NA,283,283,283,Kispiox,Kispiox,SH,SH,NA,NA
+284,FALSE,Babine,5,NA,284,284,284,Babine,Babine,SH,SH,NA,NA
+285,FALSE,Middle Skeena,5,NA,285,285,285,Middle Skeena,Middle Skeena,SH,SH,NA,NA
+286,FALSE,Suskwa,5,NA,286,286,286,Suskwa,Suskwa,SH,SH,NA,NA
+287,FALSE,Buckley,5,NA,287,287,287,Buckley,Buckley,SH,SH,NA,NA
+288,FALSE,Skeena Coastal Summers,5,NA,288,288,288,Skeena Coastal Summers,Skeena Coastal Summers,SH,SH,NA,NA
+289,FALSE,Morice,5,NA,289,289,289,Morice,Morice,SH,SH,NA,NA
+290,FALSE,Skeena Coastal Winters,5,NA,290,290,290,Skeena Coastal Winters,Skeena Coastal Winters,SH,SH,NA,NA
+480,FALSE,Nass Summer,5,NA,480,480,480,Nass Summer,Nass Summer,SH,SH,NA,NA
+481,FALSE,Nass Winter,5,NA,481,481,481,Nass Winter,Nass Winter,SH,SH,NA,NA
+680,FALSE,North Coast Winter,5,NA,680,680,680,North Coast Winter,North Coast Winter,SH,SH,NA,NA
+681,FALSE,North Coast Summer,5,NA,681,681,681,North Coast Summer,North Coast Summer,SH,SH,NA,NA
+682,FALSE,Central Coast Winter,5,NA,682,682,682,Central Coast Winter,Central Coast Winter,SH,SH,NA,NA
+683,FALSE,Transition Summer,5,NA,683,683,683,Transition Summer,Transition Summer,SH,SH,NA,NA
+780,FALSE,Mid Fraser Summer,5,NA,780,780,780,Mid Fraser Summer,Mid Fraser Summer,SH,SH,NA,NA
+781,FALSE,Thompson Summer,5,NA,781,781,781,Thompson Summer,Thompson Summer,SH,SH,NA,NA
+782,FALSE,Lower Fraser Winter,5,NA,782,782,782,Lower Fraser Winter,Lower Fraser Winter,SH,SH,NA,NA
+783,FALSE,Fraser Canyon Summer,5,NA,783,783,783,Fraser Canyon Summer,Fraser Canyon Summer,SH,SH,NA,NA
+784,FALSE,Lower Fraser Summer,5,NA,784,784,784,Lower Fraser Summer,Lower Fraser Summer,SH,SH,NA,NA
+785,FALSE,Boundary Bay Winter,5,NA,785,785,785,Boundary Bay Winter,Boundary Bay Winter,SH,SH,NA,NA
+880,FALSE,Haida Gwaii Winter,5,NA,880,880,880,Haida Gwaii Winter,Haida Gwaii Winter,SH,SH,NA,NA
+980,FALSE,South Coast Winter,5,NA,980,980,980,South Coast Winter,South Coast Winter,SH,SH,NA,NA
+981,FALSE,East Vancouver Island Winter,5,NA,981,981,981,East Vancouver Island Winter,East Vancouver Island Winter,SH,SH,NA,NA
+982,FALSE,West Vancouver Island Winter,5,NA,982,982,982,West Vancouver Island Winter,West Vancouver Island Winter,SH,SH,NA,NA
+983,FALSE,South Coast Summer,5,NA,983,983,983,South Coast Summer,South Coast Summer,SH,SH,NA,NA
+984,FALSE,West Vancouver Island Summer,5,NA,984,984,984,West Vancouver Island Summer,West Vancouver Island Summer,SH,SH,NA,NA
+985,FALSE,East Vancouver Island Summer,5,NA,985,985,985,East Vancouver Island Summer,East Vancouver Island Summer,SH,SH,NA,NA
+1080,FALSE,Alsek Summer,5,NA,1080,1080,1080,Alsek Summer,Alsek Summer,SH,SH,NA,NA
+1081,FALSE,Taku Summer,5,NA,1081,1081,1081,Taku Summer,Taku Summer,SH,SH,NA,NA
+1082,FALSE,Taku Winter,5,NA,1082,1082,1082,Taku Winter,Taku Winter,SH,SH,NA,NA
+1083,FALSE,Stikine Summer,5,NA,1083,1083,1083,Stikine Summer,Stikine Summer,SH,SH,NA,NA
+1084,FALSE,Stikine Winter,5,NA,1084,1084,1084,Stikine Winter,Stikine Winter,SH,SH,NA,NA
+1380,ABUND,Mid Columbia Summer,5,NA,1380,1380,1380,Mid Columbia Summer,Mid Columbia Summer,SH,SH,NA,NA

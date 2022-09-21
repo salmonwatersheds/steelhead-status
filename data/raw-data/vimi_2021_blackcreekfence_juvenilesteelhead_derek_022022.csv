@@ -1,9 +1,8 @@
-year,total_juvenile_steelhead,total_juvenile_rainbow,,,"From Derek LeBoeuf (Biologist at A-Tlegay Fisheries Society) Feb 16 2022
-""The black creek fence data.  The number of juvenile steelhead/rainbow that we have counted during the outmigration fence operation is in the table below.  Further to this data (DFO/A-Tlegay) have also placed PIT tags in the out migrating trout since 2017 and have lengths, weights, and specific dates caught at the fence.  Not every trout since 2017 had a PIT tag placed in it but a good portion do.  This data exists but is in very raw form as it is an opportunistic part of the project and DFO/A-Tlegay haven’t put any effort into sorting or organizing that data yet.  It is supposed to go to the province eventually.  Letting you know that It is there and could be provided in a bit of an unorganized raw form if you really feel you need it.""",,,,,,,
-2015,9,0,,,,,,,,,,
-2016,1,0,,,,,,,,,,
-2017,60,23,,,,,,,,,,
-2018,20,0,,,,,,,,,,
-2019,1,22,,,,,,,,,,
-2020,9,22,,,,,,,,,,
-2021,29,8,,,,,,,,,,
+year,total_juvenile_steelhead,total_juvenile_rainbow
+2015,9,0
+2016,1,0
+2017,60,23
+2018,20,0
+2019,1,22
+2020,9,22
+2021,29,8

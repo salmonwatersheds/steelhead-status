@@ -43,3 +43,4 @@ rsconnect/
 
 # macOS desktop services store
 .DS_Store
+.Rproj.user
