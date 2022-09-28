@@ -53,6 +53,10 @@ where stream_name SALMON RIVER from cuid 782. kept 9868:
 
 where stream_name SALMON RIVER from cuid 981. kept 9992:
 9991
+----------------------------------------------------------
+Changes since August 2022:
+
+- Changed name of CU 880 from "Queen Charlotte Islands Winter" To "Haida Gwaii Winter" [CA]
 
 ----------------------------------------------------------
 other notes:

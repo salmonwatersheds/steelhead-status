@@ -2,7 +2,7 @@
 
 Here is the information available for steelhead CUs in the Haida Gwaii region.
 
-_insert regional map_
+![Map of the Haida Gwaii region of the Pacific Salmon Explorer](_bookdown_files/map_hg_region.png)
 
 
 ## Haida Gwaii Winter

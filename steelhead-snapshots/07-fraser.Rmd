@@ -2,7 +2,7 @@
 
 Here is the information available for steelhead CUs in the Fraser region.
 
-_insert regional map_
+![Map of the Fraser region of the Pacific Salmon Explorer and steelhead monitoring sites](_bookdown_files/map_fraser_monitoring.png)
 
 
 ## Mid Fraser Summer

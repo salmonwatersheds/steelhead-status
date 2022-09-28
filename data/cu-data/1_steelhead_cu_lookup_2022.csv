@@ -6,7 +6,7 @@ cu_id,cu_name,major_drainage,parkinson_cu,tautz_cu,phylogenetic_group,run_timing
 284,Babine,Skeena,Skeena  Summer,Babine,North Coast,Interior Summer,IS
 285,Middle Skeena,Skeena,Skeena  Summer,Middle Skeena,North Coast,Interior Summer,IS
 286,Suskwa,Skeena,Skeena  Summer,Suskwa,North Coast,Interior Summer,IS
-287,Buckley,Skeena,Skeena  Summer,Buckley,North Coast,Interior Summer,IS
+287,Bulkley,Skeena,Skeena  Summer,Bulkley,North Coast,Interior Summer,IS
 288,Skeena Coastal Summers,Skeena,Skeena Winter,Coastal Summers,North Coast,Winter,
 289,Morice,Skeena,Skeena  Summer,Morice,North Coast,Interior Summer,IS
 290,Skeena Coastal Winters,Skeena,Skeena Winter,Coastal Winters,North Coast,Winter,
@@ -22,7 +22,7 @@ cu_id,cu_name,major_drainage,parkinson_cu,tautz_cu,phylogenetic_group,run_timing
 783,Fraser Canyon Summer,Fraser Canyon,Fraser Canyon  Summer,,Coast Interior Transition,Interior Summer,W IS
 784,Lower Fraser Summer,Lower Fraser,L. Fraser Summer,,South Coast,Summer,W CS
 785,Boundary Bay Winter,Boundary Bay,Boundary Bay Winter,,South Coast,Winter,
-880,Haida Gwaii Winter,Queen Charlotte Islands,Queen Charlotte Is. Winter,,North Coast,Winter,
+880,Haida Gwaii Winter,Haida Gwaii Islands,Queen Charlotte Is. Winter,,North Coast,Winter,
 980,South Coast Winter,South Coast ,S. Coast  Winter,,South Coast,Winter,
 981,East Vancouver Island Winter,East Vancouver Island,E. Vancouver Is. Winter,,South Coast,Winter,
 982,West Vancouver Island Winter,West Vancouver Island,W. Vancouver Is. Winter,,South Coast,Winter,

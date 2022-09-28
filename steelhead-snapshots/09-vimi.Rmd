@@ -2,7 +2,7 @@
 
 Here is the information available for steelhead CUs in the Vancouver Island & Mainland Inlets (VIMI) region.
 
-_insert regional map_
+![Map of the Vancouver Island and Mainland Inlets region of the Pacific Salmon Explorer and steelhead monitoring sites](_bookdown_files/map_vimi_monitoring.png)
 
 ## South Coast Summer 
 

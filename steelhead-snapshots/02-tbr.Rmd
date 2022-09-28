@@ -1,26 +1,79 @@
 # Transboundary {#tbr}
 
-Here is the information available for steelhead CUs in the Transboundary region.
-
-_insert regional map_
+Here is the information available for the steelhead five CUs in the Transboundary region.
 
 
-## Stikine Winter
+![Map of the Transboundary region of the Pacific Salmon Explorer and major watershed basins](_bookdown_files/map_transboundary_region.png)
 
-TBA
+
+## 1084 - Stikine Winter
+
+CU id: 1084
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("1084")), c(3,4,11)]
+
+```
+
+
+_Data deficient_ for biological indicator data 
 
 ## Stikine Summer
 
-TBA
+CU id: 1083
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("1083")), c(3,4,11)]
+
+```
+
+
+_Data deficient_ for biological indicator data 
 
 ## Taku Winter
 
-TBA
+CU id: 1082
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("1082")), c(3,4,11)]
+```
+
+
+_Data deficient_ for biological indicator data 
 
 ## Taku Summer
 
-TBA
+CU id: 1081
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("1081")), c(3,4,11)]
+```
+
+
+_Data deficient_ for biological indicator data 
 
 ## Alsek Summer
 
-TBA
+CU id: 1080
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("1080")), c(3,4,11)]
+```
+
+
+_Data deficient_ for biological indicator data 

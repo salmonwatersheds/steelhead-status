@@ -1,6 +1,32 @@
 # Provincial Overview {#province}
 
-You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(province). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
+You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(province). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(tbr).
+
+![Provisional Steelhead Conservation Units in BC](_bookdown_files/steelhead_CUs_combined.png) 
+
+For each CU:
+Figures: 
+•	Spawner Surveys eg. Cheakamus river
+•	Juvenile Surveys eg. Black Creek 
+•	Hatchery Releases eg. choose
+•	Spawner Abundance eg. Upper Sustut
+•	Run Timing no eg. – Need data sources 
+•	Catch and Run Size no eg. Only Nass, exploring Skeena 
+•	Recruits-per-Spawner eg. Keogh?
+•	Trends in Spawner Abundance eg. Upper Sustut 
+•	Biological Status eg. Upper sustut 
+
+
+For all 36 CUs – summary information about each indicator? 
+CU-info
+•	Number of steelhead streams (from Parkinson) and stream names 
+•	Number of monitored streams (any years) and stream names + method + time series 
+•	Run = winter, coastal summer, interior summer  
+•	For each indicator (8): available data visualized or comment on availability or DD 
+•	Bio status + benchmarks + method
+•	Generation length and source of estimate 
+•	Data quality? 
+
 
 
 You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].

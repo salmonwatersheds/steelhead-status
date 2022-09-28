@@ -2,7 +2,7 @@
 
 Here is the information available for steelhead CUs in the Nass region.
 
-_insert regional map_
+![Map of the Nass region of the Pacific Salmon Explorer and steelhead monitoring sites](_bookdown_files/map_nass_monitoring.png)
 
 
 ## Nass Summer

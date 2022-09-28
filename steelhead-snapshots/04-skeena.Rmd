@@ -2,8 +2,8 @@
 
 Here is the information available for steelhead CUs in the Skeena region.
 
-_insert regional map_
-
+![Map of the Skeena region of the Pacific Salmon Explorer and steelhead Conservation Units](_bookdown_files/map_skeena_region.png)
+![Map of the Skeena region of the Pacific Salmon Explorer and steelhead monitoring locations](_bookdown_files/map_skeena_monitoring.png)
 
 ## Upper Skeena Headwaters
 
