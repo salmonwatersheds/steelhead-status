@@ -1,7 +1,5 @@
 #Specific files
-data/cu-data/as-recieved/
-data/raw-data/scraped-reports
-data/raw-data/unscraped-pdf-reports
+data/raw-population-indicator-data/unscraped-pdf-reports
 data/habitat-capacity-data/hc-lit
 
 
