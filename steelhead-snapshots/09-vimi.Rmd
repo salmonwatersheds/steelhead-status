@@ -1,32 +1,318 @@
 # Vancouver Island & Mainland Inlets {#vimi}
 
-Here is the information available for steelhead CUs in the Vancouver Island & Mainland Inlets (VIMI) region.
+Here is the information available for steelhead CUs in the Vancouver Island & Mainland Inlets (VIMI) region. Steelhead CUs in this region were defined in [Parkinson et al. 2005](https://salmonwatersheds.ca/library/lib_521/).
 
 ![Map of the Vancouver Island and Mainland Inlets region of the Pacific Salmon Explorer and steelhead monitoring sites](_bookdown_files/map_vimi_monitoring.png)
 
-## South Coast Summer 
+## *South Coast Summer* 
 
-TBA
+CU id 983
 
-## South Coast Winter
 
-TBA 
+### Populations
 
-## East Vancouver Island Summer
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
 
-TBA
 
-## East Vancouver Island Winter
+cu_list[ (cu_list$cu_id %in% c("983")), c(3,4,11)]
 
-TBA
+```
 
-## West Vancouver Island Summer
+### Spawner Surveys 
 
-TBA
+Data Deficient
 
-## West Vancouver Island Winter 
+### Juvenile Surveys 
 
-TBA 
+Data Deficient 
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
+
+## *South Coast Winter*
+
+CU id 980
+
+![CU boundaries](_bookdown_files/980.cu.png)
+
+### Populations
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("980")), c(3,4,11)]
+
+```
+
+### Spawner Surveys
+
+![The figures display the number of spawning steelhead observed in each stream each year. Data Source: [Korman & Schick 2021](https://www.bchydro.com/content/dam/BCHydro/customer-portal/documents/corporate/environment-sustainability/water-use-planning/lower-mainland/cmsmon-03-yr12-2021-07-27.pdf).](_bookdown_files/Steelhead9919.ind.stream.jpg)
+
+_Spawner survey data (periodic snorkel counts) are available for the Glendale Creek and the Kakweiken and Ahnuhati Rivers' winter runs. Collected by BCCF and the Province of BC. Data for 2002-2015 available online through [Marine Data BC database](https://soggy2.zoology.ubc.ca:8443/geonetwork/srv/api/records/d3832567-c07f-48dc-9a5b-74b67e707614?language=eng). Pending update datasets from the Province of BC._ 
+
+### Juvenile Surveys 
+
+![The figure displays estimates of the number of out-migrating juvenile steelhead from freshwater rearing habitats. Data Source: [Korman & Schick 2021](https://www.bchydro.com/content/dam/BCHydro/customer-portal/documents/corporate/environment-sustainability/water-use-planning/lower-mainland/cmsmon-03-yr12-2021-07-27.pdf).](_bookdown_files/Cheakamus.juv.jpg)
+
+![The figure displays estimates of the number of out-migrating juvenile steelhead from freshwater rearing habitats. Data Source: [Korman & Schick 2021](https://www.bchydro.com/content/dam/BCHydro/customer-portal/documents/corporate/environment-sustainability/water-use-planning/lower-mainland/cmsmon-03-yr12-2021-07-27.pdf).](_bookdown_files/Brohm.juv.jpg)
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+### Spawner Abundance 
+
+![This figure shows time series of the observed and estimated number of adult steelhead returning to the spawning grounds each year within the Conservation Unit (CU). Estimated spawner abundance is based on the number of effective total spawners, or the number of fish that successfully spawn in a given year. Fish that do not survive to spawn due to in-river mortality are not included in the spawner abundance estimates. Data Source: [Korman & Schick 2021](https://www.bchydro.com/content/dam/BCHydro/customer-portal/documents/corporate/environment-sustainability/water-use-planning/lower-mainland/cmsmon-03-yr12-2021-07-27.pdf).](_bookdown_files/980.spawn.jpg) 
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
+
+## *East Vancouver Island Summer*
+
+CU id 985
+
+![CU boundaries](_bookdown_files/985.cu.png)
+
+### Populations
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("985")), c(3,4,11)]
+
+```
+
+### Spawner Surveys 
+
+_Historical spawner survey data (snorkel counts) are available for Puntledge and Tsitika Rivers. Collected by BCCF and the Province of BC. Data for 2002-2015 available online through [Marine Data BC database](https://soggy2.zoology.ubc.ca:8443/geonetwork/srv/api/records/d3832567-c07f-48dc-9a5b-74b67e707614?language=eng). Pending updated datasets from the Province of BC._  
+
+### Juvenile Surveys 
+
+Data Deficient 
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
+
+## *East Vancouver Island Winter*
+
+CU id 981
+
+![CU boundaries](_bookdown_files/981.cu.png)
+
+### Populations
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("981")), c(3,4,11)]
+
+```
+
+### Spawner Surveys 
+
+![The figures display the number of spawning steelhead observed in each stream each year. Data Source: [British Columbia Ministry of Environment EcoCat](https://a100.gov.bc.ca/pub/acat/public/viewReport.do?reportId=59376).](_bookdown_files/Steelhead9995.ind.stream.jpg)
+
+_Historical spawner survey data (periodic snorkel counts) are available for the Englishman, Tsable, Little Qualicum, Qualicum, Trent, Cluxewe, and Nimpkish Rivers. Collected by BCCF and the Province of BC. Data for 2002-2015 available online through [Marine Data BC database](https://soggy2.zoology.ubc.ca:8443/geonetwork/srv/api/records/d3832567-c07f-48dc-9a5b-74b67e707614?language=eng). Pending updated datasets from the Province of BC._  
+
+### Juvenile Surveys 
+
+![The figure displays estimates of the number of out-migrating juvenile steelhead from freshwater rearing habitats. Data Source: [British Columbia Ministry of Environment EcoCat](https://a100.gov.bc.ca/pub/acat/public/viewReport.do?reportId=59376).](_bookdown_files/Keogh River.juv.jpg)
+
+![The figure displays estimates of the number of out-migrating juvenile steelhead from freshwater rearing habitats. Data Source: A-Tlegay Fisheries Society.](_bookdown_files/Black Creek.juv.jpg)
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+### Spawner Abundance 
+
+![This figure shows time series of the observed and estimated number of adult steelhead returning to the spawning grounds each year within the Conservation Unit (CU). Estimated spawner abundance is based on the number of effective total spawners, or the number of fish that successfully spawn in a given year. Fish that do not survive to spawn due to in-river mortality are not included in the spawner abundance estimates. Data Source: [British Columbia Ministry of Environment EcoCat](https://a100.gov.bc.ca/pub/acat/public/viewReport.do?reportId=59376).](_bookdown_files/981.spawn.jpg) 
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
+## *West Vancouver Island Summer*
+
+CU id 984
+
+![CU boundaries](_bookdown_files/984.cu.png)
+
+### Populations
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("984")), c(3,4,11)]
+
+```
+
+### Spawner Surveys 
+
+_Historical spawner survey data (snorkel counts) are available for Harris and China Creeks and Gordon, Gold, Heber, Nahmint, and Toquart Rivers. Collected by BCCF and the Province of BC. Data for 2002-2015 available online through [Marine Data BC database](https://soggy2.zoology.ubc.ca:8443/geonetwork/srv/api/records/d3832567-c07f-48dc-9a5b-74b67e707614?language=eng). Pending updated datasets from the Province of BC._   
+
+### Juvenile Surveys 
+
+Data Deficient 
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
+## *West Vancouver Island Winter*
+
+CU id 982
+
+![CU boundaries](_bookdown_files/982.cu.png)
+
+### Populations
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("982")), c(3,4,11)]
+
+```
+
+### Spawner Surveys 
+
+_Historical spawner survey data (snorkel counts) are available for the Sooke River. Collected by BCCF and the Province of BC. Data for 2002-2015 available online through [Marine Data BC database](https://soggy2.zoology.ubc.ca:8443/geonetwork/srv/api/records/d3832567-c07f-48dc-9a5b-74b67e707614?language=eng). Pending updated datasets from the Province of BC._  
+
+### Juvenile Surveys 
+
+Data Deficient 
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
 
 
 

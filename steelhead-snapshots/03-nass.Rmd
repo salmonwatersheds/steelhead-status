@@ -1,14 +1,105 @@
 # Nass {#nass}
 
-Here is the information available for steelhead CUs in the Nass region.
+Here is the information available for steelhead CUs in the Nass region. Steelhead CUs in this region were defined in [Parkinson et al. 2005](https://salmonwatersheds.ca/library/lib_521/).
 
 ![Map of the Nass region of the Pacific Salmon Explorer and steelhead monitoring sites](_bookdown_files/map_nass_monitoring.png)
 
 
-## Nass Summer
+## *Nass Summer*
 
-TBA
+CU id 480
 
-## Nass Winter
+![CU boundaries](_bookdown_files/480.cu.png)
 
-TBA
+### Populations 
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("480")), c(3,4,11)]
+
+```
+
+### Spawner Surveys 
+
+_Data will be available for this indicator - to be provided by the Nisga'a Fish and Wildlife Department_
+
+### Juvenile Surveys 
+
+Data Deficient 
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+### Spawner Abundance 
+
+_Data will be available for this indicator - to be provided by the Nisga'a Fish and Wildlife Department_
+
+### Run Timing 
+
+_Data will be available for this indicator - to be provided by the Nisga'a Fish and Wildlife Department_
+
+### Catch and Run Size 
+
+_Data will be available for this indicator - to be provided by the Nisga'a Fish and Wildlife Department_
+
+### Recruits-per-spawner 
+
+_Data will be available for this indicator - to be provided by the Nisga'a Fish and Wildlife Department_
+
+### Trends in Spawner Abundance 
+
+_Data will be available for this indicator - to be provided by the Nisga'a Fish and Wildlife Department_
+
+
+## *Nass Winter*
+
+CU id 481
+
+### Populations 
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("1084")), c(3,4,11)]
+
+```
+### Spawner Surveys 
+
+Data Deficient 
+
+### Juvenile Surveys 
+
+Data Deficient 
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+

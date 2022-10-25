@@ -1,22 +1,212 @@
 # Central Coast {#cc}
 
-Here is the information available for steelhead CUs in the Central Coast region.
+Here is the information available for steelhead CUs in the Central Coast region. Steelhead CUs in this region were defined in [Parkinson et al. 2005](https://salmonwatersheds.ca/library/lib_521/).
 
 ![Map of the Central Coast region of the Pacific Salmon Explorer and steelhead monitoring sites](_bookdown_files/map_cc_monitoring.png)
 
 
-## North Coast Summer
+## *North Coast Summer*
 
-TBA
+CU id: 681
 
-## North Coast Winter
+### Populations 
 
-TBA
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
 
-## Central Coast Winter
 
-TBA
+cu_list[ (cu_list$cu_id %in% c("681")), c(3,4,11)]
 
-## Transition Summer
+```
 
-TBA
+### Spawner Surveys 
+
+Data Deficient 
+
+### Juvenile Surveys 
+
+Data Deficient 
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
+
+## *North Coast Winter*
+
+CU id: 680
+
+![CU boundaries](_bookdown_files/680.cu.png)
+
+### Populations 
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("680")), c(3,4,11)]
+
+```
+
+### Spawner Surveys 
+
+Data Deficient 
+
+### Juvenile Surveys 
+
+Data Deficient 
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
+
+
+## *Central Coast Winter*
+
+CU id: 682
+
+### Populations 
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("682")), c(3,4,11)]
+
+```
+
+### Spawner Surveys 
+
+Data Deficient 
+
+### Juvenile Surveys 
+
+Data Deficient 
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
+
+
+## *Transition Summer*
+
+CU id: 683
+
+![CU boundaries](_bookdown_files/683.cu.png)
+
+### Populations 
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("683")), c(3,4,11)]
+
+```
+
+### Spawner Surveys 
+
+_Historical spawner survey data are published for the Bella Coola River (English et al. 1999, [Ptolemy et al. 2006](https://a100.gov.bc.ca/pub/acat/documents/r8340/BellaFinalSTHD_1165528596401_62d306f669ce4c39a9acd8471f8445f2.pdf)). Pending extraction from PDF reports._
+
+### Juvenile Surveys 
+
+_Historical juvenile survey data are published for the Bella Coola River ([Ptolemy et al. 2006](https://a100.gov.bc.ca/pub/acat/documents/r8340/BellaFinalSTHD_1165528596401_62d306f669ce4c39a9acd8471f8445f2.pdf)). Pending extraction from PDF reports._
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
+

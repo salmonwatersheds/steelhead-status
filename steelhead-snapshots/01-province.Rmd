@@ -1,32 +1,29 @@
 # Provincial Overview {#province}
 
-You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(province). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(tbr).
+![Provisional Steelhead Conservation Units in BC. From [Parkinson et al. 2005](https://salmonwatersheds.ca/library/lib_521/) and [Tautz et al. 2011](https://salmonwatersheds.ca/library/lib_b_979/).](_bookdown_files/steelhead_CUs_combined.png) 
 
-![Provisional Steelhead Conservation Units in BC](_bookdown_files/steelhead_CUs_combined.png) 
+For each CU, we are cataloging the available information for: 
 
-For each CU:
-Figures: 
-•	Spawner Surveys eg. Cheakamus river
-•	Juvenile Surveys eg. Black Creek 
-•	Hatchery Releases eg. choose
-•	Spawner Abundance eg. Upper Sustut
-•	Run Timing no eg. – Need data sources 
-•	Catch and Run Size no eg. Only Nass, exploring Skeena 
-•	Recruits-per-Spawner eg. Keogh?
-•	Trends in Spawner Abundance eg. Upper Sustut 
-•	Biological Status eg. Upper sustut 
+**Populations**: The steelhead streams documented in the province-wide steelhead population database from [Parkinson et al. 2005](https://salmonwatersheds.ca/library/lib_521/) and [Tautz et al. 2011](https://salmonwatersheds.ca/library/lib_b_979/) and associated run timing notes. 
 
+For run timing:
+W = Winter 
+CS = Coastal Summer 
+IS = Interior Summer
 
-For all 36 CUs – summary information about each indicator? 
-CU-info
-•	Number of steelhead streams (from Parkinson) and stream names 
-•	Number of monitored streams (any years) and stream names + method + time series 
-•	Run = winter, coastal summer, interior summer  
-•	For each indicator (8): available data visualized or comment on availability or DD 
-•	Bio status + benchmarks + method
-•	Generation length and source of estimate 
-•	Data quality? 
+**Spawner Surveys**: Stream-level monitoring data for spawning steelhead observed in each stream each year
 
+**Juvenile Surveys**: Stream-level estimates of the number of out-migrating juvenile steelhead from freshwater rearing habitats.
 
+**Hatchery Releases**: Annual total numbers of juvenile steelhead released at each site by release type.
 
-You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
+**Spawner Abundance**: CU-level observed and/or estimated number of adult steelhead returning to the spawning grounds each year within the CU. Estimated spawner abundance is based on the number of effective total spawners, or the number of fish that successfully spawn in a given year. Fish that do not survive to spawn due to in-river mortality are not included in the spawner abundance estimates.
+
+**Run Timing**: CU-level estimates of the average time of year at which salmon return to river en route to their spawning grounds, defined by entry into freshwater. 
+
+**Catch & Run Size**: CU-level annual run size which is the is the sum of _spawner estimates_ (the total number of salmon that successfully return to the spawning grounds in a given year) and _catch_ (the total number of salmon caught in fisheries). Estimates of exploitation rate, which is the percent of the total run caught in fisheries, are also included in this indicator. 
+
+**Recruits-per-Spawner**: The CU-level number of recruits-per-spawner (adult fish produced per spawner in the parental generation) plotted by brood year (the year that the fish were born/spawned in). 
+
+**Trends in Spawner Abundance**: The running average of estimated spawner abundance, as well as the estimated trend in spawner abundance over the full time series and the last three generations. A smoothed time series and trend lines provide a long-term perspective on changes in spawner abundance over time.
+

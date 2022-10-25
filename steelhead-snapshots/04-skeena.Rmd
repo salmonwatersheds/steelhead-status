@@ -1,50 +1,570 @@
 # Skeena {#skeena}
 
-Here is the information available for steelhead CUs in the Skeena region.
+Here is the information available for steelhead CUs in the Skeena region. Steelhead CUs in this region were defined in [Tautz et al. 2011](https://salmonwatersheds.ca/library/lib_b_979/).
 
-![Map of the Skeena region of the Pacific Salmon Explorer and steelhead Conservation Units](_bookdown_files/map_skeena_region.png)
-![Map of the Skeena region of the Pacific Salmon Explorer and steelhead monitoring locations](_bookdown_files/map_skeena_monitoring.png)
+![Map of the Skeena region of the Pacific Salmon Explorer and steelhead Conservation Units from [Tautz et al. 2011](https://salmonwatersheds.ca/library/lib_b_979/).](_bookdown_files/map_skeena_region.png)
 
-## Upper Skeena Headwaters
+![Map of the Skeena region of the Pacific Salmon Explorer and steelhead monitoring locations.](_bookdown_files/map_skeena_monitoring.png)
 
-TBA
+## *Upper Skeena Headwaters*
 
-## Upper Sustut 
+CU id 280
 
-TBA
 
-## Upper Skeena 
+### Populations
 
-TBA
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
 
-## Kispiox
 
-TBA
+cu_list[ (cu_list$cu_id %in% c("280")), c(3,4,11)]
 
-## Babine
+```
+### Spawner Surveys 
 
-TBA
+Data Deficient 
 
-## Middle Skeena 
+### Juvenile Surveys 
 
-TBA
+_Historical data available (ex. Bustard et al. 1994). Pending extraction from PDF reports._
 
-## Suskwa
+### Hatchery Releases 
 
-TBA
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
 
-## Buckley
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
 
-TBA 
 
-## Morice
+### Spawner Abundance 
 
-TBA
+Data Deficient
 
-## Skeena Coastal Summers 
+### Run Timing 
 
-TBA
+Data Deficient 
 
-## Skeena Coastal Winters 
+### Catch and Run Size 
 
-TBA
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
+
+
+## *Upper Sustut* 
+
+Cu id 281
+
+![CU boundaries](_bookdown_files/281.cu.png)
+
+### Populations
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("281")), c(3,4,11)]
+
+
+```
+
+### Spawner Surveys 
+
+![The figures display the number of spawning steelhead observed in each stream each year. Data Source: [Skeena Fisheries 2019](https://www.env.gov.bc.ca/skeena/fish/sk_series_reports/sk178.pdf).](_bookdown_files/Steelhead9712.ind.stream.jpg)
+
+### Juvenile Surveys 
+
+Data Deficient 
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+
+### Spawner Abundance 
+
+![This figure shows time series of the observed and estimated number of adult steelhead returning to the spawning grounds each year within the Conservation Unit (CU). Estimated spawner abundance is based on the number of effective total spawners, or the number of fish that successfully spawn in a given year. Fish that do not survive to spawn due to in-river mortality are not included in the spawner abundance estimates. Data Source: [Skeena Fisheries 2019](https://www.env.gov.bc.ca/skeena/fish/sk_series_reports/sk178.pdf).](_bookdown_files/281.spawn.jpg)  
+
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+_Data will be available for this indicator. Pending analysis._
+
+Data Source: [Skeena Fisheries 2019](https://www.env.gov.bc.ca/skeena/fish/sk_series_reports/sk178.pdf).
+
+## *Upper Skeena* 
+
+CU id 282
+
+### Populations
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("282")), c(3,4,11)]
+
+```
+### Spawner Surveys 
+
+Data Deficient 
+
+### Juvenile Surveys 
+
+Data Deficient 
+
+### Hatchery Releases 
+
+Data Deficient 
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
+## *Kispiox*
+
+CU id 283
+
+### Populations
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("283")), c(3,4,11)]
+
+```
+
+### Spawner Surveys 
+
+Data Deficient 
+
+### Juvenile Surveys 
+
+_Historical data may be available for this indicator (ex. Tredger 1988, unpublished provincial datasets)._
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
+
+## *Babine*
+
+CU id 284
+
+### Populations
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("284")), c(3,4,11)]
+
+```
+
+### Spawner Surveys 
+
+_Data is available for this indicator. DFO Babine River counting fence has recorded steelhead spawner counts from 1990-2021. Data to be collated and reviewed._
+
+Data Source: [DFO Babine River counting fence](https://www.pac.dfo-mpo.gc.ca/fm-gp/northcoast-cotenord/archives-eng.html).
+
+### Juvenile Surveys 
+
+Data Deficient 
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+
+### Spawner Abundance 
+
+_Data is available for this indicator. DFO Babine River counting fence has recorded steelhead spawner counts from 1990-2021. Data to be collated and reviewed._
+
+Data Source: [DFO Babine River counting fence](https://www.pac.dfo-mpo.gc.ca/fm-gp/northcoast-cotenord/archives-eng.html).
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+_Data is available for this indicator. DFO Babine River counting fence has recorded steelhead spawner counts from 1990-2021. Data to be collated and reviewed._
+
+Data Source: [DFO Babine River counting fence](https://www.pac.dfo-mpo.gc.ca/fm-gp/northcoast-cotenord/archives-eng.html).
+
+## *Middle Skeena*
+
+CU id 285
+
+![CU boundaries](_bookdown_files/285.cu.png)
+
+### Populations
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("285")), c(3,4,11)]
+
+```
+
+### Spawner Surveys 
+
+_Historical data is available for this indicator for the Kitwanga River (ex. Gitanyow Fisheries Authority 2002, Peard & McCubbing 2011). Pending extraction from PDF reports and review._
+
+### Juvenile Surveys 
+
+_Data exists for this indicator - juvenile steelhead have been enumerated in the Kitwanga River at the [Kitwanga Smolt Enumeration Facility](http://www.gitanyowfisheries.com/projects/kitwanga-smolt-enumeration-facility) and there are additional historic data collected by the Province of BC (ex. Beere 1993). Pending extraction of published data from PDF reports and access to existing unpublished data._
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
+## *Suskwa*
+
+CU id 286
+
+### Populations
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+cu_list[ (cu_list$cu_id %in% c("286")), c(3,4,11)]
+
+```
+
+### Spawner Surveys 
+
+Data Deficient 
+
+### Juvenile Surveys 
+
+Data Deficient 
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
+## *Bulkley*
+
+CU id 287
+
+![CU boundaries](_bookdown_files/287.cu.png)
+
+### Populations
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("287")), c(3,4,11)]
+
+```
+
+### Spawner Surveys 
+
+![The figures display the number of spawning steelhead observed in each stream each year. Data Source: [Saimoto, R. S. & R.K. Saimoto 2013](https://psf.ca/wp-content/uploads/2021/10/Download-PDF26-1.pdf).](_bookdown_files/Steelhead9724.ind.stream.jpg)
+
+_Mark-recapture data used to estimate spawner abundance have been collected in the Bulkley-Morice River 2013-2022, but these data have not been published or provided to PSF at this point._
+
+### Juvenile Surveys 
+
+Data Deficient 
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+
+### Spawner Abundance 
+
+![This figure shows time series of the observed and estimated number of adult steelhead returning to the spawning grounds each year within the Conservation Unit (CU). Estimated spawner abundance is based on the number of effective total spawners, or the number of fish that successfully spawn in a given year. Fish that do not survive to spawn due to in-river mortality are not included in the spawner abundance estimates. Data Source: [Saimoto, R. S. & R.K. Saimoto 2013](https://psf.ca/wp-content/uploads/2021/10/Download-PDF26-1.pdf).](_bookdown_files/287.spawn.jpg) 
+
+_Mark-recapture data used to estimate spawner abundance have been collected in the Bulkley-Morice River 2013-2022 as part of the Witset Falls , but these data have not been published or provided to PSF at this point._
+
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+_Data will be available for this indicator. Pending analysis._
+
+## *Morice*
+
+CU id 289
+
+![CU boundaries](_bookdown_files/289.cu.png)
+
+### Populations
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("289")), c(3,4,11)]
+
+```
+
+### Spawner Surveys 
+
+Data Deficient 
+
+### Juvenile Surveys 
+
+Data Deficient 
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
+
+## *Skeena Coastal Summers* 
+
+CU id 288
+
+### Populations
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("288")), c(3,4,11)]
+
+```
+
+### Spawner Surveys 
+
+Data Deficient 
+
+### Juvenile Surveys 
+
+_Historical data for this indicator for the Zymoetz River are available (ex. Beere 1993). Pending extraction from PDF reports._
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
+
+## *Skeena Coastal Winters*
+
+CU id 290
+
+### Populations
+
+```{r echo=FALSE}
+cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
+
+
+cu_list[ (cu_list$cu_id %in% c("290")), c(3,4,11)]
+
+```
+
+### Spawner Surveys 
+
+Data Deficient 
+
+### Juvenile Surveys 
+
+Data Deficient 
+
+### Hatchery Releases 
+
+_Data will be available for this indicator, pending processing - comprehensive database of steelhead hatchery releases from the Province of BC and Freshwater Fisheries Society._
+
+Data Source: [Province of British Columbia Data Catalogue](https://catalogue.data.gov.bc.ca/)
+
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+

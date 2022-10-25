@@ -1,14 +1,16 @@
 # Transboundary {#tbr}
 
-Here is the information available for the steelhead five CUs in the Transboundary region.
+Here is the information available for the steelhead five CUs in the Transboundary region. Steelhead CUs in this region were defined in [Parkinson et al. 2005](https://salmonwatersheds.ca/library/lib_521/).
 
 
 ![Map of the Transboundary region of the Pacific Salmon Explorer and major watershed basins](_bookdown_files/map_transboundary_region.png)
 
 
-## 1084 - Stikine Winter
+## *Stikine Winter*
 
 CU id: 1084
+
+### Populations 
 
 ```{r echo=FALSE}
 cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
@@ -18,12 +20,44 @@ cu_list[ (cu_list$cu_id %in% c("1084")), c(3,4,11)]
 
 ```
 
+### Spawner Surveys 
 
-_Data deficient_ for biological indicator data 
+Data Deficient 
 
-## Stikine Summer
+### Juvenile Surveys 
+
+Data Deficient 
+
+### Hatchery Releases 
+
+Data Deficient 
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
+
+## *Stikine Summer*
 
 CU id: 1083
+
+### Populations 
 
 ```{r echo=FALSE}
 cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
@@ -34,11 +68,44 @@ cu_list[ (cu_list$cu_id %in% c("1083")), c(3,4,11)]
 ```
 
 
-_Data deficient_ for biological indicator data 
+### Spawner Surveys 
 
-## Taku Winter
+Data Deficient 
+
+### Juvenile Surveys 
+
+Data Deficient 
+
+### Hatchery Releases 
+
+Data Deficient 
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
+
+## *Taku Winter*
 
 CU id: 1082
+
+### Populations 
 
 ```{r echo=FALSE}
 cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
@@ -47,12 +114,44 @@ cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
 cu_list[ (cu_list$cu_id %in% c("1082")), c(3,4,11)]
 ```
 
+### Spawner Surveys 
 
-_Data deficient_ for biological indicator data 
+Data Deficient 
 
-## Taku Summer
+### Juvenile Surveys 
+
+Data Deficient 
+
+### Hatchery Releases 
+
+Data Deficient 
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
+
+## *Taku Summer*
 
 CU id: 1081
+
+### Populations 
 
 ```{r echo=FALSE}
 cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
@@ -61,12 +160,44 @@ cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
 cu_list[ (cu_list$cu_id %in% c("1081")), c(3,4,11)]
 ```
 
+### Spawner Surveys 
 
-_Data deficient_ for biological indicator data 
+Data Deficient 
 
-## Alsek Summer
+### Juvenile Surveys 
+
+Data Deficient 
+
+### Hatchery Releases 
+
+Data Deficient 
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
+
+## *Alsek Summer*
 
 CU id: 1080
+
+### Populations 
 
 ```{r echo=FALSE}
 cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
@@ -75,5 +206,35 @@ cu_list <- read.csv("_bookdown_files/steelhead_cu_population_lookup_2022.csv")
 cu_list[ (cu_list$cu_id %in% c("1080")), c(3,4,11)]
 ```
 
+### Spawner Surveys 
 
-_Data deficient_ for biological indicator data 
+Data Deficient 
+
+### Juvenile Surveys 
+
+Data Deficient 
+
+### Hatchery Releases 
+
+Data Deficient 
+
+### Spawner Abundance 
+
+Data Deficient
+
+### Run Timing 
+
+Data Deficient 
+
+### Catch and Run Size 
+
+Data Deficient 
+
+### Recruits-per-spawner 
+
+Data Deficient 
+
+### Trends in Spawner Abundance 
+
+Data Deficient 
+
