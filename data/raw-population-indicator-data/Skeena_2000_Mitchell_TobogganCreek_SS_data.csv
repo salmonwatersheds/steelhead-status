@@ -1,0 +1,9 @@
+pse_region,species,cu_id,stream_id,cu_name,stream_name,year,run,spawner_adunance_estimate,95_percent_ci_low,95_percent_ci_high,f_to_m_ratio,method,reliability_comment,data_source,data_source_link,note
+skeena,SH,287,10196,Bulkley,TOBOGGAN CREEK,1993,summer,435,NA,NA,0.775,Mark Recapture,,"Mitchell 2000 ""2000 Toboggan Creek Steelhead Assessment"" Table 2",,"1993 did not involve a recapture phase, estimate is based on visual observation of tagged to untagged above the fence "
+skeena,SH,287,10196,Bulkley,TOBOGGAN CREEK,1994,summer,237,201,288,0.977,Mark Recapture,,"Mitchell 2000 ""2000 Toboggan Creek Steelhead Assessment"" Table 2",,
+skeena,SH,287,10196,Bulkley,TOBOGGAN CREEK,1995,summer,330,296,370,0.538,Mark Recapture,,"Mitchell 2000 ""2000 Toboggan Creek Steelhead Assessment"" Table 2",,
+skeena,SH,287,10196,Bulkley,TOBOGGAN CREEK,1996,summer,120,103,147,0.818,Mark Recapture,,"Mitchell 2000 ""2000 Toboggan Creek Steelhead Assessment"" Table 2",,
+skeena,SH,287,10196,Bulkley,TOBOGGAN CREEK,1997,summer,543,363,1482,0.724,Mark Recapture,,"Mitchell 2000 ""2000 Toboggan Creek Steelhead Assessment"" Table 2",,"1997 estimate is bases on a small sample size of marked (M=43, R=10) relative to unmarked (C=135) thus inflating the 95% confidence intervals "
+skeena,SH,287,10196,Bulkley,TOBOGGAN CREEK,1998,summer,381,352,420,1.19,Mark Recapture,,"Mitchell 2000 ""2000 Toboggan Creek Steelhead Assessment"" Table 2",,
+skeena,SH,287,10196,Bulkley,TOBOGGAN CREEK,1999,summer,357,306,433,0.766,Mark Recapture,,"Mitchell 2000 ""2000 Toboggan Creek Steelhead Assessment"" Table 2",,
+skeena,SH,287,10196,Bulkley,TOBOGGAN CREEK,2000,summer,286,218,412,0.786,Mark Recapture,,"Mitchell 2000 ""2000 Toboggan Creek Steelhead Assessment"" Table 2",,

@@ -1,15 +1,7 @@
-pse_region,species,cu_id,stream_id,cu_name,stream_name,year,date,run,juvenile_abundance_estimate,method,reliability_comment,data_source,data_source_link,note
-fraser,SH,780,9855,Mid Fraser Summer,SETON RIVER,2014,01-Sep,summer,12183,electrofishing,,"Buchanan et al. 2020 ""Bridge-Seton Water Use Plan Implementation Year 7 (2019): Seton River Habitat and Fish Monitoring"" pp. 63",,"surveys for juvenile rainbow trout, which can include juvenile steelhead and juvenile residents "
-fraser,SH,780,9855,Mid Fraser Summer,SETON RIVER,2015,01-Sep,summer,2017,electrofishing,,"Buchanan et al. 2020 ""Bridge-Seton Water Use Plan Implementation Year 7 (2019): Seton River Habitat and Fish Monitoring"" pp. 63",,"surveys for juvenile rainbow trout, which can include juvenile steelhead and juvenile residents "
-fraser,SH,780,9855,Mid Fraser Summer,SETON RIVER,2016,01-Sep,summer,4082,electrofishing,,"Buchanan et al. 2020 ""Bridge-Seton Water Use Plan Implementation Year 7 (2019): Seton River Habitat and Fish Monitoring"" pp. 63",,"surveys for juvenile rainbow trout, which can include juvenile steelhead and juvenile residents "
-fraser,SH,780,9855,Mid Fraser Summer,SETON RIVER,2017,01-Sep,summer,5236,electrofishing,,"Buchanan et al. 2020 ""Bridge-Seton Water Use Plan Implementation Year 7 (2019): Seton River Habitat and Fish Monitoring"" pp. 63",,"surveys for juvenile rainbow trout, which can include juvenile steelhead and juvenile residents "
-fraser,SH,780,9855,Mid Fraser Summer,SETON RIVER,2018,01-Sep,summer,4648,electrofishing,,"Buchanan et al. 2020 ""Bridge-Seton Water Use Plan Implementation Year 7 (2019): Seton River Habitat and Fish Monitoring"" pp. 63",,"surveys for juvenile rainbow trout, which can include juvenile steelhead and juvenile residents "
-fraser,SH,780,9855,Mid Fraser Summer,SETON RIVER,2019,01-Sep,summer,2606,electrofishing,,"Buchanan et al. 2020 ""Bridge-Seton Water Use Plan Implementation Year 7 (2019): Seton River Habitat and Fish Monitoring"" pp. 63",,"surveys for juvenile rainbow trout, which can include juvenile steelhead and juvenile residents "
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
+pse_region,species,cu_id,stream_id,cu_name,stream_name,year,date,run,juvenile_abundance_estimate,method,lat,long,reliability_comment,data_source,data_source_link,note
+fraser,SH,780,9855,Mid Fraser Summer,SETON RIVER,2014,01-Sep,summer,12183,electrofishing,50.67081909,-121.9533358,,"Buchanan et al. 2020 ""Bridge-Seton Water Use Plan Implementation Year 7 (2019): Seton River Habitat and Fish Monitoring"" pp. 63",,"surveys for juvenile rainbow trout, which can include juvenile steelhead and juvenile residents "
+fraser,SH,780,9855,Mid Fraser Summer,SETON RIVER,2015,01-Sep,summer,2017,electrofishing,50.67081909,-121.9533358,,"Buchanan et al. 2020 ""Bridge-Seton Water Use Plan Implementation Year 7 (2019): Seton River Habitat and Fish Monitoring"" pp. 63",,"surveys for juvenile rainbow trout, which can include juvenile steelhead and juvenile residents "
+fraser,SH,780,9855,Mid Fraser Summer,SETON RIVER,2016,01-Sep,summer,4082,electrofishing,50.67081909,-121.9533358,,"Buchanan et al. 2020 ""Bridge-Seton Water Use Plan Implementation Year 7 (2019): Seton River Habitat and Fish Monitoring"" pp. 63",,"surveys for juvenile rainbow trout, which can include juvenile steelhead and juvenile residents "
+fraser,SH,780,9855,Mid Fraser Summer,SETON RIVER,2017,01-Sep,summer,5236,electrofishing,50.67081909,-121.9533358,,"Buchanan et al. 2020 ""Bridge-Seton Water Use Plan Implementation Year 7 (2019): Seton River Habitat and Fish Monitoring"" pp. 63",,"surveys for juvenile rainbow trout, which can include juvenile steelhead and juvenile residents "
+fraser,SH,780,9855,Mid Fraser Summer,SETON RIVER,2018,01-Sep,summer,4648,electrofishing,50.67081909,-121.9533358,,"Buchanan et al. 2020 ""Bridge-Seton Water Use Plan Implementation Year 7 (2019): Seton River Habitat and Fish Monitoring"" pp. 63",,"surveys for juvenile rainbow trout, which can include juvenile steelhead and juvenile residents "
+fraser,SH,780,9855,Mid Fraser Summer,SETON RIVER,2019,01-Sep,summer,2606,electrofishing,50.67081909,-121.9533358,,"Buchanan et al. 2020 ""Bridge-Seton Water Use Plan Implementation Year 7 (2019): Seton River Habitat and Fish Monitoring"" pp. 63",,"surveys for juvenile rainbow trout, which can include juvenile steelhead and juvenile residents "

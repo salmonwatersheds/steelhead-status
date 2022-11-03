@@ -3,8 +3,6 @@ cu_id,cu_name,stream_id,stream_name,major_drainage,watershed_code,parkinson_cu,t
 280,Upper Skeena Headwaters,9707,KLUATANTAN RIVER,Skeena,400898600,Skeena  Summer,Upper Skeena Headwaters,North Coast,Interior Summer,IS,46,Skeena  Summer,Interior Summer,NA,57.01713547,-128.2156405,H,NA,FWA Streams_Line_BC
 280,Upper Skeena Headwaters,9708,SUSTUT RIVER,Skeena,490,Skeena  Summer,Upper Skeena Headwaters,North Coast,Interior Summer,IS,59,Skeena  Summer,Interior Summer,NA,56.32746983,-127.2023541,H,NA,FWA Streams_Line_BC
 280,Upper Skeena Headwaters,9709,BEAR RIVER,Skeena,490267900,Skeena  Summer,Upper Skeena Headwaters,North Coast,Interior Summer,NA,60,Skeena  Summer,Interior Summer,NA,56.04581019,-129.9218907,H,NA,FWA Streams_Line_BC
-280,Upper Skeena Headwaters,9710,BEAR RIVER,Skeena,490267900,Skeena  Summer,Upper Skeena Headwaters,North Coast,Interior Summer,NA,133,S. Coast  Winter,Winter,NA,56.04581019,-129.9218907,H,NA,FWA Streams_Line_BC
-280,Upper Skeena Headwaters,9711,BEAR RIVER,Skeena,490267900,Skeena  Summer,Upper Skeena Headwaters,North Coast,Interior Summer,NA,225,N. Coast Winter,Winter,NA,56.04581019,-129.9218907,H,NA,FWA Streams_Line_BC
 281,Upper Sustut,9712,UPPER SUSTUT RIVER,Skeena,NA,Skeena  Summer,Upper Sustut,North Coast,Interior Summer,NA,NA,NA,NA,NA,56.643523,-126.49908,H,KB,FISS
 282,Upper Skeena,9713,KULDO CREEK,Skeena,400590300,Skeena  Summer,Upper Skeena,North Coast,Interior Summer,IS,41,Skeena  Summer,Interior Summer,NA,55.95587851,-128.1734037,H,NA,FWA Streams_Line_BC
 282,Upper Skeena,9714,SICINTINE RIVER,Skeena,400636200,Skeena  Summer,Upper Skeena,North Coast,Interior Summer,IS,42,Skeena  Summer,Interior Summer,NA,56.16328566,-127.8441278,H,NA,FWA Streams_Line_BC
@@ -138,7 +136,6 @@ cu_id,cu_name,stream_id,stream_name,major_drainage,watershed_code,parkinson_cu,t
 682,Central Coast Winter,9851,SKOWQUILTZ RIVER,Central Coast,910334000,Cent. Coast Winter,NA,South North Transition,Winter,NA,185,Cent. Coast Winter,Winter,NA,52.65234899,-127.3011103,H,NA,FWA Streams_Line_BC
 682,Central Coast Winter,9852,PINE RIVER,Central Coast,910441000,Cent. Coast Winter,NA,South North Transition,Winter,NA,186,Cent. Coast Winter,Winter,NA,52.653252,-128.052228,H,KB,NuSEDs
 683,Transition Summer,9853,BELLA COOLA RIVER,Bella Coola Dean,910290700,Transition Summer,NA,South North Transition,Summer,W CS,181,Transition Summer,Summer,NA,52.42317066,-126.4367711,H,NA,FWA Streams_Line_BC
-683,Transition Summer,10129,Atnarko River,Bella Coola Dean,,Transition Summer,NA,South North Transition,Summer,W CS,,Transition Summer,Summer,NA,52.371392,-126.081226,H,,CA_Check
 683,Transition Summer,9854,DEAN RIVER,Bella Coola Dean,910318700,Transition Summer,NA,South North Transition,Summer,W CS,183,Transition Summer,Summer,NA,52.76859543,-126.5858057,H,NA,FWA Streams_Line_BC
 780,Mid Fraser Summer,9855,SETON RIVER,Mid Fraser,100235900,Mid Fraser  Summer,NA,Interior,Interior Summer,IS,12,Mid Fraser  Summer,Interior Summer,NA,50.67081909,-121.9533358,H,NA,FWA Streams_Line_BC
 780,Mid Fraser Summer,9856,BRIDGE RIVER,Mid Fraser,100241900,Mid Fraser  Summer,NA,Interior,Interior Summer,IS,13,Mid Fraser  Summer,Interior Summer,NA,50.82670599,-123.2177592,H,NA,FWA Streams_Line_BC
@@ -402,7 +399,9 @@ Alternate Viner Creek (59.63286, -125.66986); ArcGIS world geocoding service","G
 1084,Stikine Winter,10122,VERRETT RIVER,Stikine,6.10E+08,Stikine Winter,NA,North Coast,Winter,NA,87,Stikine Winter,Winter,NA,56.74978104,-131.0070689,H,NA,FWA Streams_Line_BC
 1084,Stikine Winter,10123,CHUTINE RIVER,Stikine,620,Stikine Winter,NA,North Coast,Winter,NA,88,Stikine Winter,Winter,NA,57.70193365,-131.8107269,H,NA,FWA Streams_Line_BC
 1084,Stikine Winter,10124,MESS CREEK,Stikine,6.30E+02,Stikine Winter,NA,North Coast,Winter,NA,89,Stikine Winter,Winter,NA,57.68122269,-130.9510107,H,NA,FWA Streams_Line_BC
-1380,Mid Columbia Summer,10128,Inkaneep Creek,Mid Columbia,,Mid Columbia  Summer,NA,Interior,Interior Summer,NA,,Mid Columbia  Summer,Interior Summer,NA,49.072511,-119.503958,H,NA,
 1380,Mid Columbia Summer,10125,OKANAGAN RIVER,Mid Columbia,310,Mid Columbia  Summer,NA,Interior,Interior Summer,NA,27,Mid Columbia  Summer,Interior Summer,NA,49.08306,-119.51908,M,NA,ArcGIS world geocoding service
 NA,NA,10126,GLENLAND CREEK,NA,NA,NA,NA,NA,NA,NA,140,S. Coast  Winter,Winter,NA,NA,NA,NA,NA,NA
 980,South Coast Winter,10127,BROHM River,South Coast,9.00E+13,S. Coast  Winter,NA,South Coast,Winter,NA,,S. Coast  Winter,Winter,NA,49.806974,-123.120242,H,added stream manually - separate juvenile estimates than cheakamus ,
+1380,Mid Columbia Summer,10194,Inkaneep Creek,Mid Columbia,,Mid Columbia  Summer,NA,Interior,Interior Summer,NA,,Mid Columbia  Summer,Interior Summer,NA,49.072511,-119.503958,H,NA,
+683,Transition Summer,10195,Atnarko River,Bella Coola Dean,,Transition Summer,NA,South North Transition,Summer,W CS,,Transition Summer,Summer,NA,52.371392,-126.081226,H,,CA_Check
+287,Bulkley,10196,TOBOGGAN CREEK,Skeena,460,Skeena  Summer,Bulkley,North Coast,Interior Summer,IS,,Skeena  Summer,Interior Summer,NA,55.931489,-127.299898,H,NA,CA check

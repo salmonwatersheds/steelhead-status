@@ -1,0 +1,4 @@
+pse_region,species,cu_id,stream_id,cu_name,stream_name,year,run,spawner_adunance_estimate,method,reliability_comment,data_source,data_source_link,note
+skeena,SH,280,9708,Upper Skeena Headwaters,SUSTUT RIVER,1971,summer,3000,Visual Estimate,,"Chudyk 1972 as reported in Baxter 1997 ""Upper Sustut, Lower Sustut, and Bear River Steelhead: Summary of Current Data and Status Review, 1997"" Table 6",,
+skeena,SH,280,9708,Upper Skeena Headwaters,SUSTUT RIVER,1986,summer,3072,Mark-Recapture,,"Spence et al. 1990 as reported in Baxter 1997 ""Upper Sustut, Lower Sustut, and Bear River Steelhead: Summary of Current Data and Status Review, 1997"" Table 6",,
+skeena,SH,280,9708,Upper Skeena Headwaters,SUSTUT RIVER,1989,summer,700,Visual Estimate,,"Bustard 1993 as reported in Baxter 1997 ""Upper Sustut, Lower Sustut, and Bear River Steelhead: Summary of Current Data and Status Review, 1997"" Table 6",,
