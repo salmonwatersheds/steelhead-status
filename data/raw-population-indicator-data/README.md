@@ -23,12 +23,12 @@
 
 Process for extracting data from PDF reports:
 
-* Move PDF to `raw-data` and create metadata file with the same name 
+* Move PDF to `raw-population-indicator-data` 
 
-* Extract data from tables in PDF (Adobe Acrobat Pro: File > Export to... > Spreadsheet > Excel) into spreadsheet and save as CSV in `raw-data`.
+* Extract data from tables in PDF (Adobe Acrobat Pro: File > Export to... > Spreadsheet > Excel) into spreadsheet and save as CSV in `raw-population-indicator-data`. If this function does not work for a given PDF, data are extracted by hand or from figures using [Plot Digitizer](https://plotdigitizer.com/app).
 
 * QAQC formatting and data checks (check row and column names and alignment; spot check data values)
 
-* Fill out metadata file (original language, descriptions, data quality comments from original report when possible)
+* Add to as new row to `1-raw-data-catalogue`. 
 
 

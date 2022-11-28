@@ -1,6 +1,6 @@
 # Status of Steelhead Populations and Habitats in British Columbia
 
-Clare Atkinson 07/2022
+Clare Atkinson 11/2022
 
 ## Overview
 
@@ -9,12 +9,18 @@ Since 2008, the Pacific Salmon Foundation’s (PSF) [Salmon Watersheds Program](
 To leverage this successful tool to improve the availability of information about steelhead and their habitats, PSF is working to expand the Pacific Salmon Explorer to include the best-available data for steelhead in British Columbia. We hope to apply methodologies developed to evaluate the status of salmon CUs, and pressures on their freshwater habitats, to steelhead in the regions visualised on the Pacific Salmon Explorer. [This project](https://salmonwatersheds.ca/projects/steelhead-a-snapshot-of-bc-populations-and-their-habitats/) is one component of a broader initiative funded by the [British Columbia Salmon Restoration and Innovation Fund (BC SRIF)](https://www.dfo-mpo.gc.ca/fisheries-peches/initiatives/fish-fund-bc-fonds-peche-cb/index-eng.html) to update, expand, and mobilize the information provided in the Pacific Salmon Explorer between April 2021 and March 2024. 
 
 
-## Files
+## Repository Structure
 
-Data have NOT been reviewed by PSF's Steelhead Technical Working Group. 
+Brief description of each folder in this repository:
 
-TO BE EDITED...
-What are the files and folders contained in this repo and what do they do? Can be a file-by-file explanation (good) or a general overview (less good but likley the norm; e.g., This repo contains R code to reproduce the regional summaries shown in the Pacific Salmon Explorer landing page.)
+`/code` contains data wrangling and analysis code scripts to produce datasets for population indicators and biological status assessments for steelhead on the Pacific Salmon Explorer. 
+
+`/data` contains *input* data (i.e. raw data sets in the format they were accessed or shared)
+
+`/output` contains *output* synthesized datasets and metadata files, which are visualized in the [Pacific Salmon Explorer](https://www.salmonexplorer.ca/#!/) and provided for download in PSF's [Salmon Data Library](https://data.salmonwatersheds.ca/data-library/). 
+
+`/steelhead-snapshots` contains R Markdown scripts and figures for a Bookdown html document, which provides in-progress information about the information compiled and synthesized for steelhead CUs over the course of this work. 
+
 
 ## Acknowledgements
 
@@ -23,7 +29,7 @@ We would like to thank our partners in this work:
 * The Province of British Columbia
 * The University of British Columbia
 * Simon Fraser University
-* Fisheries and Oceans Canada
+* Fisheries and Oceans Canada (DFO)
 * The Freshwater Fisheries Society
 * The Gitanyow Fisheries Authority 
 * The Nisga'a Lisims Government
