@@ -59,3 +59,6 @@ rsconnect/
 
 # Ignore steelhead snapshots
 steelhead-snapshots
+
+# Ignore deprecated Rmd file for data compilation
+code/Steelhead_salmon_CU_updatesSep09_2022.Rmd

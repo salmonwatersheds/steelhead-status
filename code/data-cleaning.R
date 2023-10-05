@@ -1,5 +1,5 @@
 ############### data-cleaning ##################
-# this file takes raw files and wrangles them so that they are in a format approporiate for the Pacific Salmon Explorer
+# this file takes raw files and wrangles them so that they are in a format appropriate for the Pacific Salmon Explorer
 ################################################
 
 ### Loading packages ###
