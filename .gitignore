@@ -2,7 +2,6 @@
 data/raw-population-indicator-data/unscraped-pdf-reports
 data/habitat-capacity-data/hc-lit
 
-
 # History files
 .Rhistory
 .Rapp.history
@@ -27,8 +26,8 @@ vignettes/*.html
 vignettes/*.pdf
 
 # ignore data files
-data/habitat-capacity-data/hc-lit
-data/raw-population-indicator-data
+data/habitat-capacity-data/hc-lit/*.pdf
+data/raw-population-indicator-data/*.pdf
 data/zoi-data
 data/old
 
@@ -57,3 +56,6 @@ rsconnect/
 # macOS desktop services store
 .DS_Store
 .Rproj.user
+
+# Ignore steelhead snapshots
+steelhead-snapshots
