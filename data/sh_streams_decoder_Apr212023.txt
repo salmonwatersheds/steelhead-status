@@ -1,0 +1,32 @@
+stream_id	indicator	sppqualifiedid	geofeatureid	stream_name	cu_id	cu_name	major_drainage	run_timing_full.x	run_timing	OBJECTID	run_timing_full.y	latitude	longitude	sppqualifiedid	Indicator
+9866				ALOUETTE RIVER	782	Lower Fraser Winter	Lower Fraser	Winter	NA	3	Winter	49.25437633	-122.6477408	SH	NA
+9751	Y			BELL-IRVING RIVER	480	Nass Summer	Nass	Interior Summer	NA	75	Interior Summer	56.49253106	-129.4398657	SH	NA
+9853	Y			BELLA COOLA RIVER	683	Transition Summer	Bella Coola Dean	Summer	W CS	181	Summer	52.42317066	-126.4367711	SH	NA
+9856	Y			BRIDGE RIVER	780	Mid Fraser Summer	Mid Fraser	Interior Summer	IS	13	Interior Summer	50.82670599	-123.2177592	SH	NA
+9724	Y			BULKLEY RIVER	287	Buckley	Skeena	Interior Summer	IS	52	Interior Summer	54.931604	-127.300022	SH	NA
+9919	Y			CHEAKAMUS RIVER	980	South Coast Winter	South Coast	Winter	NA	112	Winter	49.79119771	-123.1672473	SH	NA
+9857	Y			CHILCOTIN RIVER	780	Mid Fraser Summer	Mid Fraser	Interior Summer	IS	24	Interior Summer	51.89187076	-122.9310772	SH	NA
+9747	Y			CRANBERRY RIVER	480	Nass Summer	Nass	Interior Summer	NA	72	Interior Summer	55.55326089	-128.7055047	SH	NA
+9754	Y			DAMDOCHAX CREEK	480	Nass Summer	Nass	Interior Summer	NA	77	Interior Summer	56.52624071	-128.2341717	SH	NA
+9978	Y			ENGLISHMAN RIVER	981	East Vancouver Island Winter	East Vancouver Island	Winter	NA	253	Winter	49.32911	-124.295001	SH	NA
+10080	Y			GOLD RIVER	984	West Vancouver Island Summer	West Vancouver Island	Summer	W CS	321	Summer	49.75192114	-126.052363	SH	NA
+10067	Y			GORDON RIVER	984	West Vancouver Island Summer	West Vancouver Island	Summer	W CS	286	Summer	48.59632264	-124.4318171	SH	NA
+10081	Y			HEBER RIVER	984	West Vancouver Island Summer	West Vancouver Island	Summer	CS	322	Summer	49.78969699	-126.0284032	SH	NA
+9995	Y			KEOGH RIVER	981	East Vancouver Island Winter	East Vancouver Island	Winter	NA	275	Winter	50.67593152	-127.3500607	SH	NA
+9720				KITWANGA RIVER	285	Middle Skeena	Skeena	Interior Summer	IS	39	Interior Summer	55.12023617	-128.0292238	SH	NA
+9785	Y			KLOIYA RIVER	680	North Coast Winter	North Coast	Winter	NA	214	Winter	54.24152072	-130.1527862	SH	NA
+9755	Y			KSI GINGOLX	481	Nass Winter	Nass	Winter	NA	62	Winter	54.996369	-129.962681	SH	NA
+9746	Y			KWINAGEESE RIVER	480	Nass Summer	Nass	Interior Summer	IS	70	Interior Summer	56.01289329	-128.7580768	SH	NA
+9750	Y			MEZIADIN RIVER	480	Nass Summer	Nass	Interior Summer	NA	74	Interior Summer	56.03650458	-129.1851747	SH	NA
+9992	Y			SALMON RIVER	981	East Vancouver Island Winter	East Vancouver Island	Winter	NA	266	Winter	50.37806	-125.9445	SH	NA
+9744	Y			SEASKINNISH CREEK	480	Nass Summer	Nass	Interior Summer	IS	68	Interior Summer	55.28286	-129.02037	SH	NA
+9855	Y			SETON RIVER	780	Mid Fraser Summer	Mid Fraser	Interior Summer	IS	12	Interior Summer	50.67081909	-121.9533358	SH	NA
+9708	Y			SUSTUT RIVER	280	Upper Skeena Headwaters	Skeena	Interior Summer	IS	59	Interior Summer	56.32746983	-127.2023541	SH	NA
+9860	Y			THOMPSON RIVER	781	Thompson Summer	Thompson	Interior Summer	IS	20	Interior Summer	50.7541777	-121.1991427	SH	NA
+10095	Y			TSITIKA RIVER	985	East Vancouver Island Summer	East Vancouver Island	Summer	CS	269	Summer	50.37667272	-126.546528	SH	NA
+9712	Y			UPPER SUSTUT RIVER	281	Upper Sustut	Skeena	Interior Summer	NA	NA	NA	56.643523	-126.49908	SH	NA
+9862				BONAPARTE RIVER	781	Thompson Summer	Thompson	Interior Summer	IS	22	Interior Summer	51.26940368	-120.9046824	SH	NA
+9881	Y			COQUIHALLA RIVER	784	Lower Fraser Summer	Lower Fraser					49.37965455	-121.3350092	SH	NA
+9863				DEADMAN RIVER	781	Thompson Summer	Thompson	Interior Summer	IS	23	Interior Summer	50.74417	-120.92066	SH	NA
+9882	Y			LITTLE CAMPBELL RIVER	785	Boundary Bay Winter	Boundary Bay	Winter	NA	102	Winter	50.03478097	-125.2745432	SH	NA
+9861				NICOLA RIVER	781	Thompson Summer	Thompson	Interior Summer	IS	21	Interior Summer	50.19557886	-121.0676044	SH	NA
